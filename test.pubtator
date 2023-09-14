@@ -1,0 +1,962 @@
+BC8_BioRED_Task1_Doc500|t|Glutathione-Hemin/Hematin Adduct Formation to Disintegrate Cytotoxic Oxidant Hemin/Hematin in Human K562 Cells and Red Blood Cells' Hemolysates: Impact of Glutathione on the Hemolytic Disorders and Homeostasis.
+BC8_BioRED_Task1_Doc500|a|Hemin, an oxidized form of heme, acts as potent oxidant to regulate glutathione (GSH) content in pro-erythroid K562 nucleated cells, via activation of the KEAP1/NRF2 defensive signaling pathway. Moreover, GSH, as an essential metabolite, is involved in the regulation of cell-redox homeostasis and proposed to scavenge cytotoxic free heme, which is released from hemoglobin of damaged red blood cells (RBCs) during different hemolytic disorders. In the present study, we aimed to uncover the molecular mechanism by which GSH inhibits hemin-induced cytotoxicity (HIC) by affecting hemin's structural integrity in K562 cells and in RBC hemolysates. GSH, along with other thiols (cysteine, thioglycolic acid, and mercaptoethanol) altered the spectrum of hemin, while each of them co-added with hemin in cultures of K562 cells prevented HIC and growth arrest and markedly reduced the intracellular level of hemin. In addition, GSH endogenous levels served as a barrier to HIC in K562 cells, as shown by the depletion in GSH. LC-MS/MS analysis of the in vitro reaction between hemin and GSH revealed at least five different isomers of GSH-hemin adducts, as well as hydroxy derivatives as reaction products, which are characterized by unique mass spectra (MS). The latter allowed the detection of adducts in human RBC hemolysates. Based on these findings, we proposed a molecular mechanism via which GSH prevents HIC and structurally disintegrates heme. An analogous reaction was observed in RBC hemolysates via direct inter-reaction between hematin (ferric and hydroxide heme) released from hemoglobin and GSH. Overall, GSH-hematin adducts could be considered as novel entities of the human metabolome of RBCs in hemolytic disorders.
+BC8_BioRED_Task1_Doc500	94	99	Human	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc500	100	104	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc500	155	166	Glutathione	Chemical	MESH:D005978
+BC8_BioRED_Task1_Doc500	174	193	Hemolytic Disorders	Disease	MESH:D006461
+BC8_BioRED_Task1_Doc500	238	242	heme	Chemical	MESH:D006418
+BC8_BioRED_Task1_Doc500	249	251	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc500	279	290	glutathione	Chemical	D005978
+BC8_BioRED_Task1_Doc500	322	326	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc500	372	376	NRF2	Gene	4780
+BC8_BioRED_Task1_Doc500	416	419	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc500	421	423	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc500	530	539	cytotoxic	Disease	D064420
+BC8_BioRED_Task1_Doc500	545	549	heme	Chemical	MESH:D006418
+BC8_BioRED_Task1_Doc500	574	584	hemoglobin	Gene	3039
+BC8_BioRED_Task1_Doc500	636	645	hemolytic	Disease	MESH:D006461
+BC8_BioRED_Task1_Doc500	636	655	hemolytic disorders	Disease	MESH:D006461
+BC8_BioRED_Task1_Doc500	732	735	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc500	759	771	cytotoxicity	Disease	D064420
+BC8_BioRED_Task1_Doc500	823	827	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc500	858	861	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc500	880	886	thiols	Chemical	D013438
+BC8_BioRED_Task1_Doc500	888	896	cysteine	Chemical	MESH:D003545
+BC8_BioRED_Task1_Doc500	898	915	thioglycolic acid	Chemical	MESH:C017487
+BC8_BioRED_Task1_Doc500	962	967	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc500	1002	1007	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc500	1023	1027	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc500	1044	1047	HIC	Disease	MESH:D064420
+BC8_BioRED_Task1_Doc500	1059	1065	arrest	Disease	MESH:D006323
+BC8_BioRED_Task1_Doc500	1114	1119	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc500	1134	1137	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc500	1163	1165	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc500	1179	1182	HIC	Disease	MESH:D064420
+BC8_BioRED_Task1_Doc500	1186	1190	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc500	1198	1200	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc500	1227	1230	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc500	1238	1240	MS	Disease	MESH:D009103
+BC8_BioRED_Task1_Doc500	1283	1288	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc500	1293	1296	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc500	1345	1350	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc500	1360	1362	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc500	1368	1370	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc500	1391	1393	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc500	1513	1518	human	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc500	1605	1608	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc500	1618	1621	HIC	Disease	MESH:D064420
+BC8_BioRED_Task1_Doc500	1653	1657	heme	Chemical	MESH:D006418
+BC8_BioRED_Task1_Doc500	1659	1661	An	OrganismTaxon	123651
+BC8_BioRED_Task1_Doc500	1682	1684	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc500	1747	1754	hematin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc500	1756	1762	ferric	Chemical	D007501
+BC8_BioRED_Task1_Doc500	1797	1807	hemoglobin	Gene	3039
+BC8_BioRED_Task1_Doc500	1812	1815	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc500	1830	1837	hematin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc500	1866	1868	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc500	1891	1896	human	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc500	1919	1928	hemolytic	Disease	MESH:D006461
+BC8_BioRED_Task1_Doc500	1919	1938	hemolytic disorders	Disease	MESH:D006461
+
+BC8_BioRED_Task1_Doc501|t|The amplification of CNS damage in Alzheimer's disease due to SARS-CoV2 infection.
+BC8_BioRED_Task1_Doc501|a|Pre-existing Alzheimer's disease is a risk factor for severe/fatal COVID-19 and infection by SARS-CoV2 virus has been associated with an increased incidence of un-masked Alzheimer's disease. The molecular basis whereby SARS-CoV2 may amplify Alzheimer's disease is not well understood. This study analyzed the molecular changes in autopsy brain tissues from people with pre-existing dementia who died of COVID-19 (n = 5) which was compared to equivalent tissues of people who died of COVID-19 with no history of dementia (n = 8), Alzheimer's disease pre-COVID-19 (n = 10) and aged matched controls (n = 10) in a blinded fashion. Immunohistochemistry analyses for hyperphosphorylated tau protein, alpha-synuclein, and beta-amyloid-42 confirmed the diagnoses of Alzheimer's disease (n = 4), and Lewy body dementia (n = 1) in the COVID-19 group. The brain tissues from patients who died of COVID-19 with no history of dementia showed a diffuse microangiopathy marked by endocytosis of spike subunit S1 and S2 in primarily CD31+ endothelia with strong co-localization with ACE2, Caspase-3, IL6, TNFalpha, and Complement component 6 that was not associated with SARS-CoV2 RNA. Microglial activation marked by increased TMEM119 and MCP1 protein expression closely paralleled the endocytosed spike protein. The COVID-19 tissues from people with no pre-existing dementia showed, compared to controls, 5-10x fold increases in expression of neuronal NOS and NMDAR2 as well as a marked decrease in the expression of proteins whose loss is associated with worsening Alzheimer's disease: MFSD2a, SHIP1, BCL6, BCL10, and BACH1. In COVID-19 tissues from people with dementia the widespread spike-induced microencephalitis with the concomitant microglial activation co-existed in the same areas where neurons had hyperphosphorylated tau protein suggesting that the already dysfunctional neurons were additionally stressed by the SARS-CoV2 induced microangiopathy. ACE2+ human brain endothelial cells treated with high dose (but not vaccine equivalent low dose) spike S1 protein demonstrated each of the molecular changes noted in the in vivo COVID-19 and COVID-19/Alzheimer's disease brain tissues. It is concluded that fatal COVID-19 induces a diffuse microencephalitis and microglial activation in the brain due to endocytosis of circulating viral spike protein that amplifies pre-existing dementia in at least two ways: 1) modulates the expression of proteins that may worsen Alzheimer's disease and 2) stresses the already dysfunctional neurons by causing an acute proinflammatory/hypercoagulable/hypoxic microenvironment in areas with abundant hyperphosphorylated tau protein and/or betaA-42.
+BC8_BioRED_Task1_Doc501	21	31	CNS damage	Disease	D009422
+BC8_BioRED_Task1_Doc501	25	31	damage	Disease	MESH:D009422
+BC8_BioRED_Task1_Doc501	35	54	Alzheimer's disease	Disease	D000544
+BC8_BioRED_Task1_Doc501	62	71	SARS-CoV2	OrganismTaxon	2697049
+BC8_BioRED_Task1_Doc501	72	81	infection	Disease	D007239
+BC8_BioRED_Task1_Doc501	96	115	Alzheimer's disease	Disease	D000544
+BC8_BioRED_Task1_Doc501	150	158	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	163	172	infection	Disease	D007239
+BC8_BioRED_Task1_Doc501	176	185	SARS-CoV2	OrganismTaxon	2697049
+BC8_BioRED_Task1_Doc501	193	195	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc501	253	272	Alzheimer's disease	Disease	D000544
+BC8_BioRED_Task1_Doc501	302	311	SARS-CoV2	OrganismTaxon	2697049
+BC8_BioRED_Task1_Doc501	324	343	Alzheimer's disease	Disease	D000544
+BC8_BioRED_Task1_Doc501	440	446	people	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc501	465	473	dementia	Disease	D003704
+BC8_BioRED_Task1_Doc501	478	482	died	Disease	D003643
+BC8_BioRED_Task1_Doc501	486	494	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	510	512	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc501	547	553	people	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc501	558	562	died	Disease	D003643
+BC8_BioRED_Task1_Doc501	566	574	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	594	602	dementia	Disease	D003704
+BC8_BioRED_Task1_Doc501	612	631	Alzheimer's disease	Disease	D000544
+BC8_BioRED_Task1_Doc501	636	644	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	765	768	tau	Gene	4137
+BC8_BioRED_Task1_Doc501	778	793	alpha-synuclein	Gene	6622
+BC8_BioRED_Task1_Doc501	842	861	Alzheimer's disease	Disease	D000544
+BC8_BioRED_Task1_Doc501	875	884	Lewy body	Disease	MESH:D020961
+BC8_BioRED_Task1_Doc501	875	893	Lewy body dementia	Disease	MESH:D020961
+BC8_BioRED_Task1_Doc501	885	893	dementia	Disease	D003704
+BC8_BioRED_Task1_Doc501	909	917	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	948	956	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc501	961	965	died	Disease	D003643
+BC8_BioRED_Task1_Doc501	969	977	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	997	1005	dementia	Disease	D003704
+BC8_BioRED_Task1_Doc501	1023	1038	microangiopathy	DiseaseOrPhenotypicFeature	D057049
+BC8_BioRED_Task1_Doc501	1064	1069	spike	Gene	43740568
+BC8_BioRED_Task1_Doc501	1078	1080	S1	Gene	9606
+BC8_BioRED_Task1_Doc501	1151	1155	ACE2	Gene	59272
+BC8_BioRED_Task1_Doc501	1157	1166	Caspase-3	Gene	25402
+BC8_BioRED_Task1_Doc501	1168	1171	IL6	Gene	3569
+BC8_BioRED_Task1_Doc501	1173	1181	TNFalpha	Gene	21926
+BC8_BioRED_Task1_Doc501	1187	1209	Complement component 6	Gene	729
+BC8_BioRED_Task1_Doc501	1216	1218	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc501	1239	1248	SARS-CoV2	OrganismTaxon	2697049
+BC8_BioRED_Task1_Doc501	1296	1303	TMEM119	Gene	338773
+BC8_BioRED_Task1_Doc501	1308	1312	MCP1	Gene	20296
+BC8_BioRED_Task1_Doc501	1367	1372	spike	Gene	43740568
+BC8_BioRED_Task1_Doc501	1367	1380	spike protein	Gene	9606
+BC8_BioRED_Task1_Doc501	1386	1394	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	1408	1414	people	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc501	1436	1444	dementia	Disease	D003704
+BC8_BioRED_Task1_Doc501	1513	1525	neuronal NOS	Gene	4842
+BC8_BioRED_Task1_Doc501	1522	1525	NOS	Gene	24598
+BC8_BioRED_Task1_Doc501	1537	1539	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc501	1545	1547	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc501	1602	1606	loss	Disease	MESH:D014786
+BC8_BioRED_Task1_Doc501	1657	1663	MFSD2a	Gene	84879
+BC8_BioRED_Task1_Doc501	1665	1670	SHIP1	Gene	3635
+BC8_BioRED_Task1_Doc501	1672	1676	BCL6	Gene	604
+BC8_BioRED_Task1_Doc501	1678	1683	BCL10	Gene	8915
+BC8_BioRED_Task1_Doc501	1689	1694	BACH1	Gene	571
+BC8_BioRED_Task1_Doc501	1699	1707	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	1721	1727	people	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc501	1733	1741	dementia	Disease	D003704
+BC8_BioRED_Task1_Doc501	1858	1860	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc501	1899	1902	tau	Gene	4137
+BC8_BioRED_Task1_Doc501	1995	2004	SARS-CoV2	OrganismTaxon	2697049
+BC8_BioRED_Task1_Doc501	2013	2028	microangiopathy	DiseaseOrPhenotypicFeature	D057049
+BC8_BioRED_Task1_Doc501	2036	2041	human	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc501	2048	2059	endothelial	Disease	MESH:C536439
+BC8_BioRED_Task1_Doc501	2127	2132	spike	Gene	43740568
+BC8_BioRED_Task1_Doc501	2133	2135	S1	Gene	9606
+BC8_BioRED_Task1_Doc501	2208	2216	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	2230	2249	Alzheimer's disease	Disease	D000544
+BC8_BioRED_Task1_Doc501	2292	2300	COVID-19	Disease	MESH:C000657245
+BC8_BioRED_Task1_Doc501	2416	2421	spike	Gene	43740568
+BC8_BioRED_Task1_Doc501	2416	2429	spike protein	Gene	9606
+BC8_BioRED_Task1_Doc501	2458	2466	dementia	Disease	D003704
+BC8_BioRED_Task1_Doc501	2545	2564	Alzheimer's disease	Disease	D000544
+BC8_BioRED_Task1_Doc501	2629	2634	acute	Disease	MESH:D000208
+BC8_BioRED_Task1_Doc501	2667	2674	hypoxic	Disease	D000860
+BC8_BioRED_Task1_Doc501	2698	2700	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc501	2735	2738	tau	Gene	4137
+
+BC8_BioRED_Task1_Doc502|t|Case report: Rhabdomyolysis and kidney injury in a statin-treated hypothyroid patient-kill two birds with one stone.
+BC8_BioRED_Task1_Doc502|a|Statin treatment for hypercholesterolemia may cause reversible rhabdomyolysis and acute kidney injury in susceptible patients. However, persistent rhabdomyolysis and acute kidney injury following discontinuation of statins require careful evaluation of the underlying causes to avoid missing a curable disease. We describe a 50-year-old woman with hypercholesterolemia [total cholesterol 345 mg/dl, low-density lipoprotein cholesterol (LDL-C) 266 mg/dL] on atorvastatin therapy (40 mg daily) for 1 month that presented with myalgia and muscle weakness. Relevant laboratory studies revealed persistent higher hypercholesterolemia with total cholesterol (312 mg/dL), high creatine kinase (CK) (5,178 U/L), and high creatinine levels (1.5 mg/dL) without dysmorphic red blood cells and proteinuria. Despite the cessation of statin therapy, serum CK level increased to 9,594 U/L, and creatinine remained at 1.5 mg/dL. A thorough work-up to assess potential underlying causes indicated low T3 and free T4 and high thyroid-stimulating hormone (TSH) levels, consistent with hypothyroidism. With aggressive thyroxine replacement for 1 month, all of the clinical features, along with elevated serum CK and creatinine levels, were completely resolved. This case highlights the fact that hypothyroidism must be kept in mind as a potential cause of concomitant myopathy and kidney injury, especially in patients with statin-resistant hypercholesterolemia.
+BC8_BioRED_Task1_Doc502	13	27	Rhabdomyolysis	Disease	D012206
+BC8_BioRED_Task1_Doc502	32	38	kidney	Disease	MESH:D007674
+BC8_BioRED_Task1_Doc502	32	45	kidney injury	Disease	MESH:D058186
+BC8_BioRED_Task1_Doc502	66	77	hypothyroid	Disease	MESH:D007037
+BC8_BioRED_Task1_Doc502	70	77	thyroid	Disease	MESH:D013959
+BC8_BioRED_Task1_Doc502	138	158	hypercholesterolemia	Disease	D006937
+BC8_BioRED_Task1_Doc502	180	194	rhabdomyolysis	Disease	D012206
+BC8_BioRED_Task1_Doc502	199	204	acute	Disease	MESH:D000208
+BC8_BioRED_Task1_Doc502	199	218	acute kidney injury	Disease	MESH:D058186
+BC8_BioRED_Task1_Doc502	205	211	kidney	Disease	MESH:D007674
+BC8_BioRED_Task1_Doc502	205	218	kidney injury	Disease	MESH:D058186
+BC8_BioRED_Task1_Doc502	234	242	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc502	264	278	rhabdomyolysis	Disease	D012206
+BC8_BioRED_Task1_Doc502	283	288	acute	Disease	MESH:D000208
+BC8_BioRED_Task1_Doc502	283	302	acute kidney injury	Disease	MESH:D058186
+BC8_BioRED_Task1_Doc502	289	295	kidney	Disease	MESH:D007674
+BC8_BioRED_Task1_Doc502	289	302	kidney injury	Disease	MESH:D058186
+BC8_BioRED_Task1_Doc502	332	339	statins	Chemical	D019821
+BC8_BioRED_Task1_Doc502	454	459	woman	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc502	465	485	hypercholesterolemia	Disease	D006937
+BC8_BioRED_Task1_Doc502	493	504	cholesterol	Chemical	D002784
+BC8_BioRED_Task1_Doc502	516	539	low-density lipoprotein	Chemical	D008077
+BC8_BioRED_Task1_Doc502	540	551	cholesterol	Chemical	D002784
+BC8_BioRED_Task1_Doc502	574	586	atorvastatin	Chemical	D000069059
+BC8_BioRED_Task1_Doc502	580	586	statin	Chemical	D019821
+BC8_BioRED_Task1_Doc502	641	648	myalgia	Disease	MESH:D063806
+BC8_BioRED_Task1_Doc502	653	668	muscle weakness	Disease	D018908
+BC8_BioRED_Task1_Doc502	660	668	weakness	Disease	D018908
+BC8_BioRED_Task1_Doc502	725	745	hypercholesterolemia	Disease	D006937
+BC8_BioRED_Task1_Doc502	757	768	cholesterol	Chemical	D002784
+BC8_BioRED_Task1_Doc502	787	802	creatine kinase	Chemical	D003402
+BC8_BioRED_Task1_Doc502	796	802	kinase	Gene	9606
+BC8_BioRED_Task1_Doc502	830	840	creatinine	Chemical	D003404
+BC8_BioRED_Task1_Doc502	899	910	proteinuria	Disease	D011507
+BC8_BioRED_Task1_Doc502	937	943	statin	Chemical	D019821
+BC8_BioRED_Task1_Doc502	959	961	CK	Gene	51727
+BC8_BioRED_Task1_Doc502	996	1006	creatinine	Chemical	D003404
+BC8_BioRED_Task1_Doc502	1101	1103	T3	Chemical	D014284
+BC8_BioRED_Task1_Doc502	1113	1115	T4	Chemical	D013974
+BC8_BioRED_Task1_Doc502	1183	1197	hypothyroidism	Disease	D007037
+BC8_BioRED_Task1_Doc502	1215	1224	thyroxine	Chemical	D013974
+BC8_BioRED_Task1_Doc502	1306	1308	CK	Gene	51727
+BC8_BioRED_Task1_Doc502	1313	1323	creatinine	Chemical	D003404
+BC8_BioRED_Task1_Doc502	1393	1407	hypothyroidism	Disease	D007037
+BC8_BioRED_Task1_Doc502	1429	1431	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc502	1465	1473	myopathy	Disease	D009135
+BC8_BioRED_Task1_Doc502	1478	1484	kidney	Disease	MESH:D007674
+BC8_BioRED_Task1_Doc502	1478	1491	kidney injury	Disease	MESH:D058186
+BC8_BioRED_Task1_Doc502	1507	1515	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc502	1538	1558	hypercholesterolemia	Disease	D006937
+
+BC8_BioRED_Task1_Doc503|t|Response of Cd, Zn Translocation and Distribution to Organic Acids Heterogeneity in Brassica juncea L.
+BC8_BioRED_Task1_Doc503|a|In order to investigate the translocation, distribution, and organic acid heterogeneity characteristics in Brassica juncea L., a pot experiment with the exogenous application of Cd and Zn was conducted to analyze the effects of Cd, Zn, and organic acid contents and heterogeneity on the translocation and distribution of Cd and Zn. The results showed that the Cd and Zn contents of B. juncea were mainly accumulated in the roots. The Cd content in the symplast sap was 127.66-146.50% higher than that in the apoplast sap, while the opposite was true for Zn. The distribution of Cd in xylem sap occupied 64.60% under 20 mg kg-1 Cd treatment, and Zn in xylem sap occupied 60.14% under 100 mg kg-1 Zn treatment. The Cd was predominantly distributed in the vacuole, but the Zn was predominantly distributed in the cell walls. In addition, oxalic and malic acids were present in high concentrations in B. juncea. In the vacuole, correlation analysis showed that the contents of Cd were negatively correlated with the contents of oxalic acid and succinic acid, and the contents of Zn were positively correlated with the contents of malic acid and acetic acid. The contents of Cd and Zn were negatively related to the contents of oxalic acid and citric acid in xylem sap. Therefore, Cd in B. juncea was mainly absorbed through the symplast pathway, and Zn was mainly absorbed through the apoplast pathway, and then Cd and Zn were distributed in the vacuole and cell walls. The Cd and Zn in B. juncea are transferred upward through the xylem and promoted by oxalic acid, malic acid, and citric acid.
+BC8_BioRED_Task1_Doc503	12	14	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	16	18	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	281	283	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	288	290	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	331	333	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	335	337	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	424	426	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	431	433	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	463	465	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	470	472	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	485	494	B. juncea	OrganismTaxon	874446
+BC8_BioRED_Task1_Doc503	537	539	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	657	659	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	681	683	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	730	732	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	748	750	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	798	800	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	816	818	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	873	875	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	913	917	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc503	1000	1009	B. juncea	OrganismTaxon	874446
+BC8_BioRED_Task1_Doc503	1076	1078	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	1127	1138	oxalic acid	Chemical	MESH:D019815
+BC8_BioRED_Task1_Doc503	1143	1156	succinic acid	Chemical	MESH:D019802
+BC8_BioRED_Task1_Doc503	1178	1180	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	1229	1239	malic acid	Chemical	MESH:C030298
+BC8_BioRED_Task1_Doc503	1244	1255	acetic acid	Chemical	D019342
+BC8_BioRED_Task1_Doc503	1273	1275	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	1280	1282	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	1326	1337	oxalic acid	Chemical	MESH:D019815
+BC8_BioRED_Task1_Doc503	1342	1353	citric acid	Chemical	MESH:D019343
+BC8_BioRED_Task1_Doc503	1379	1381	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	1385	1394	B. juncea	OrganismTaxon	874446
+BC8_BioRED_Task1_Doc503	1449	1451	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	1511	1513	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	1518	1520	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	1557	1561	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc503	1573	1575	Cd	Chemical	MESH:D002104
+BC8_BioRED_Task1_Doc503	1580	1582	Zn	Chemical	MESH:D015032
+BC8_BioRED_Task1_Doc503	1586	1595	B. juncea	OrganismTaxon	874446
+BC8_BioRED_Task1_Doc503	1653	1664	oxalic acid	Chemical	MESH:D019815
+BC8_BioRED_Task1_Doc503	1666	1676	malic acid	Chemical	MESH:C030298
+BC8_BioRED_Task1_Doc503	1682	1693	citric acid	Chemical	MESH:D019343
+
+BC8_BioRED_Task1_Doc504|t|Down-regulation of A20 promotes immune escape of lung adenocarcinomas.
+BC8_BioRED_Task1_Doc504|a|Inflammation is a well-known driver of lung tumorigenesis. One strategy by which tumor cells escape tight homeostatic control is by decreasing the expression of the potent anti-inflammatory protein tumor necrosis factor alpha-induced protein 3 (TNFAIP3), also known as A20. We observed that tumor cell intrinsic loss of A20 markedly enhanced lung tumorigenesis and was associated with reduced CD8+ T cell-mediated immune surveillance in patients with lung cancer and in mouse models. In mice, we observed that this effect was completely dependent on increased cellular sensitivity to interferon-gamma (IFN-gamma) signaling by aberrant activation of TANK-binding kinase 1 (TBK1) and increased downstream expression and activation of signal transducer and activator of transcription 1 (STAT1). Interrupting this autocrine feed forward loop by knocking out IFN-alpha/beta receptor completely restored infiltration of cytotoxic T cells and rescued loss of A20 depending tumorigenesis. Downstream of STAT1, programmed death ligand 1 (PD-L1) was highly expressed in A20 knockout lung tumors. Accordingly, immune checkpoint blockade (ICB) treatment was highly efficient in mice harboring A20-deficient lung tumors. Furthermore, an A20 loss-of-function gene expression signature positively correlated with survival of melanoma patients treated with anti-programmed cell death protein 1. Together, we have identified A20 as a master immune checkpoint regulating the TBK1-STAT1-PD-L1 axis that may be exploited to improve ICB therapy in patients with lung adenocarcinoma.
+BC8_BioRED_Task1_Doc504	19	22	A20	Gene	7128
+BC8_BioRED_Task1_Doc504	49	53	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc504	49	69	lung adenocarcinomas	Disease	MESH:D000077192
+BC8_BioRED_Task1_Doc504	67	69	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc504	71	83	Inflammation	DiseaseOrPhenotypicFeature	D007249
+BC8_BioRED_Task1_Doc504	110	114	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc504	110	128	lung tumorigenesis	Disease	D008175
+BC8_BioRED_Task1_Doc504	115	128	tumorigenesis	Disease	D009369
+BC8_BioRED_Task1_Doc504	152	157	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc504	248	260	inflammatory	Disease	D007249
+BC8_BioRED_Task1_Doc504	269	274	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc504	269	283	tumor necrosis	Disease	MESH:D009336
+BC8_BioRED_Task1_Doc504	269	314	tumor necrosis factor alpha-induced protein 3	Gene	7128
+BC8_BioRED_Task1_Doc504	275	283	necrosis	Disease	D009336
+BC8_BioRED_Task1_Doc504	337	339	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc504	340	343	A20	Gene	7128
+BC8_BioRED_Task1_Doc504	362	367	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc504	368	372	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc504	383	387	loss	Disease	MESH:D014786
+BC8_BioRED_Task1_Doc504	391	394	A20	Gene	7128
+BC8_BioRED_Task1_Doc504	413	417	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc504	413	431	lung tumorigenesis	Disease	D008175
+BC8_BioRED_Task1_Doc504	418	431	tumorigenesis	Disease	D009369
+BC8_BioRED_Task1_Doc504	437	439	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc504	469	470	T	Chemical	D013739
+BC8_BioRED_Task1_Doc504	508	516	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc504	522	526	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc504	522	533	lung cancer	Disease	D008175
+BC8_BioRED_Task1_Doc504	527	533	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc504	541	546	mouse	OrganismTaxon	10090
+BC8_BioRED_Task1_Doc504	558	562	mice	OrganismTaxon	10090
+BC8_BioRED_Task1_Doc504	594	596	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc504	655	671	interferon-gamma	Gene	15978
+BC8_BioRED_Task1_Doc504	720	741	TANK-binding kinase 1	Gene	56480
+BC8_BioRED_Task1_Doc504	733	739	kinase	Gene	9606
+BC8_BioRED_Task1_Doc504	803	853	signal transducer and activator of transcription 1	Gene	20846
+BC8_BioRED_Task1_Doc504	925	939	IFN-alpha/beta	Gene	3445,3456,3440
+BC8_BioRED_Task1_Doc504	985	994	cytotoxic	Disease	D064420
+BC8_BioRED_Task1_Doc504	995	996	T	Chemical	D013739
+BC8_BioRED_Task1_Doc504	1015	1019	loss	Disease	MESH:D014786
+BC8_BioRED_Task1_Doc504	1023	1026	A20	Gene	7128
+BC8_BioRED_Task1_Doc504	1037	1050	tumorigenesis	Disease	D009369
+BC8_BioRED_Task1_Doc504	1066	1071	STAT1	Gene	20846
+BC8_BioRED_Task1_Doc504	1073	1098	programmed death ligand 1	Gene	60533
+BC8_BioRED_Task1_Doc504	1084	1089	death	Disease	D003643
+BC8_BioRED_Task1_Doc504	1108	1110	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc504	1131	1134	A20	Gene	7128
+BC8_BioRED_Task1_Doc504	1144	1148	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc504	1144	1155	lung tumors	Disease	MESH:D008175
+BC8_BioRED_Task1_Doc504	1149	1155	tumors	Disease	D009369
+BC8_BioRED_Task1_Doc504	1214	1216	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc504	1237	1241	mice	OrganismTaxon	10090
+BC8_BioRED_Task1_Doc504	1266	1270	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc504	1266	1277	lung tumors	Disease	MESH:D008175
+BC8_BioRED_Task1_Doc504	1271	1277	tumors	Disease	D009369
+BC8_BioRED_Task1_Doc504	1295	1298	A20	Gene	7128
+BC8_BioRED_Task1_Doc504	1381	1389	melanoma	Disease	D008545
+BC8_BioRED_Task1_Doc504	1390	1398	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc504	1417	1448	programmed cell death protein 1	Gene	5133
+BC8_BioRED_Task1_Doc504	1428	1432	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc504	1433	1438	death	Disease	D003643
+BC8_BioRED_Task1_Doc504	1479	1482	A20	Gene	7128
+BC8_BioRED_Task1_Doc504	1483	1485	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc504	1539	1544	PD-L1	Gene	60533
+BC8_BioRED_Task1_Doc504	1598	1606	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc504	1612	1616	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc504	1612	1631	lung adenocarcinoma	Disease	D000077192
+BC8_BioRED_Task1_Doc504	1617	1631	adenocarcinoma	Disease	D000230
+
+BC8_BioRED_Task1_Doc505|t|MicroRNA-433 inhibits oral squamous cell carcinoma cells by targeting FAK.
+BC8_BioRED_Task1_Doc505|a|We investigated the involvement of microRNA-433 (miR-433) in the proliferation, migration, and invasiveness of oral squamous cell carcinoma (OSCC). Totally 108 OSCC tissues and adjacent normal tissues from patients with OSCC were collected. Also, transplanted tumor formation experiment in nude mice was conducted to verify the effect of miR-433 and FAK on subcutaneous transplanted tumor. The CD44+ stem cell from SCC-9 were collected and assigned into the blank, miR-433 mimics, mimics control, miR-433 inhibitors, inhibitors control, siFAK and miR-433 inhibitors + siFAK groups. The qRT-PCR and western blotting were used to detect miR-433, FAK, ERK, MEK, pERK and pMEK after transfection. Flow cytometry, MTT assay, scratch test and Transwell assay were performed to determine the cell proportion, growth, migration and invasion of SCC-9 cells. In cell line SCC-9, expression of CD133, Oct-4, and BIM-1 was greater in CD44+ cells than CD44- cells, indicating that CD44+ cells had characteristics of tumor stem cells. Expression of FAK, ERK, MEK, p-ERK and p-MEK was decreased in tumor tissues from the CD44-, miR-433, and siFAK groups. Expression of MiR-433 mRNA was elevated, while levels of FAK, ERK, MEK, p-ERK, and p-MEK mRNA were all decreased in the miR-433 mimics group. In the miR-433 mimics and siFAK groups, cell proliferation, migration, and invasion were all decreased, while the opposite trends were seen in the miR-433 inhibitor group. These results indicate that miR-433 downregulates FAK through the ERK/MAPK signaling pathway to inhibit the proliferation, migration, and invasiveness of SCC-9 OSCC cells.
+BC8_BioRED_Task1_Doc505	0	12	MicroRNA-433	Gene	574034
+BC8_BioRED_Task1_Doc505	22	50	oral squamous cell carcinoma	Disease	MESH:D002294
+BC8_BioRED_Task1_Doc505	27	50	squamous cell carcinoma	Disease	MESH:D002294
+BC8_BioRED_Task1_Doc505	36	40	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc505	41	50	carcinoma	Disease	D002277
+BC8_BioRED_Task1_Doc505	70	73	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	110	122	microRNA-433	Gene	574034
+BC8_BioRED_Task1_Doc505	186	214	oral squamous cell carcinoma	Disease	MESH:D002294
+BC8_BioRED_Task1_Doc505	191	214	squamous cell carcinoma	Disease	MESH:D002294
+BC8_BioRED_Task1_Doc505	200	204	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc505	205	214	carcinoma	Disease	D002277
+BC8_BioRED_Task1_Doc505	235	239	OSCC	Disease	MESH:D002294
+BC8_BioRED_Task1_Doc505	236	239	SCC	Disease	MESH:D002294
+BC8_BioRED_Task1_Doc505	281	289	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc505	295	299	OSCC	Disease	MESH:D002294
+BC8_BioRED_Task1_Doc505	296	299	SCC	Disease	MESH:D002294
+BC8_BioRED_Task1_Doc505	335	340	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc505	370	374	mice	OrganismTaxon	10090
+BC8_BioRED_Task1_Doc505	413	420	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	425	428	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	458	463	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc505	480	484	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc505	490	495	SCC-9	CellLine	CVCL_1685
+BC8_BioRED_Task1_Doc505	540	547	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	572	579	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	614	617	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	622	629	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	645	648	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	710	717	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	719	722	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	724	727	ERK	Gene	26413
+BC8_BioRED_Task1_Doc505	729	732	MEK	Gene	5609
+BC8_BioRED_Task1_Doc505	734	738	pERK	Gene	9451
+BC8_BioRED_Task1_Doc505	735	738	ERK	Gene	26413
+BC8_BioRED_Task1_Doc505	744	747	MEK	Gene	5609
+BC8_BioRED_Task1_Doc505	784	787	MTT	Chemical	MESH:C070243
+BC8_BioRED_Task1_Doc505	860	864	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc505	911	916	SCC-9	CellLine	CVCL_1685
+BC8_BioRED_Task1_Doc505	927	931	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc505	937	942	SCC-9	CellLine	CVCL_1685
+BC8_BioRED_Task1_Doc505	958	963	CD133	Gene	8842
+BC8_BioRED_Task1_Doc505	965	970	Oct-4	Gene	5460
+BC8_BioRED_Task1_Doc505	1078	1083	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc505	1110	1113	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	1115	1118	ERK	Gene	26413
+BC8_BioRED_Task1_Doc505	1120	1123	MEK	Gene	5609
+BC8_BioRED_Task1_Doc505	1125	1130	p-ERK	Gene	9451
+BC8_BioRED_Task1_Doc505	1127	1130	ERK	Gene	26413
+BC8_BioRED_Task1_Doc505	1137	1140	MEK	Gene	5609
+BC8_BioRED_Task1_Doc505	1158	1163	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc505	1188	1195	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	1203	1206	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	1229	1236	MiR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	1272	1275	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	1277	1280	ERK	Gene	26413
+BC8_BioRED_Task1_Doc505	1282	1285	MEK	Gene	5609
+BC8_BioRED_Task1_Doc505	1287	1292	p-ERK	Gene	9451
+BC8_BioRED_Task1_Doc505	1289	1292	ERK	Gene	26413
+BC8_BioRED_Task1_Doc505	1300	1303	MEK	Gene	5609
+BC8_BioRED_Task1_Doc505	1335	1342	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	1364	1371	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	1385	1388	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	1397	1401	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc505	1504	1511	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	1557	1564	miR-433	Gene	574034
+BC8_BioRED_Task1_Doc505	1579	1582	FAK	Gene	5747
+BC8_BioRED_Task1_Doc505	1599	1603	MAPK	Gene	5594
+BC8_BioRED_Task1_Doc505	1683	1688	SCC-9	CellLine	CVCL_1685
+BC8_BioRED_Task1_Doc505	1689	1693	OSCC	Disease	MESH:D002294
+BC8_BioRED_Task1_Doc505	1690	1693	SCC	Disease	MESH:D002294
+
+BC8_BioRED_Task1_Doc506|t|ASB13 inhibits breast cancer metastasis through promoting SNAI2 degradation and relieving its transcriptional repression of YAP.
+BC8_BioRED_Task1_Doc506|a|Transcription factor SNAI2 plays key roles during development and has also been known to promote metastasis by inducing invasive phenotype and tumor-initiating activity of cancer cells. However, the post-translational regulation of SNAI2 is less well studied. We performed a dual-luciferase-based, genome-wide E3 ligase siRNA library screen and identified ASB13 as an E3 ubiquitin ligase that targets SNAI2 for ubiquitination and degradation. ASB13 knockout in breast cancer cells promoted cell migration and decreased F-actin polymerization, while overexpression of ASB13 suppressed lung metastasis. Furthermore, ASB13 knockout decreased YAP expression, and such regulation is dependent on an increased protein level of SNAI2, which in turn represses YAP transcription. YAP suppresses tumor progression in breast cancer, as YAP knockout increases tumorsphere formation, anchorage-independent colony formation, cell migration in vitro, and lung metastasis in vivo. Clinical data analysis reveals that ASB13 expression is positively correlated with improved overall survival in breast cancer patients. These findings establish ASB13 as a suppressor of breast cancer metastasis by promoting degradation of SNAI2 and relieving its transcriptional repression of YAP.
+BC8_BioRED_Task1_Doc506	0	5	ASB13	Gene	79754
+BC8_BioRED_Task1_Doc506	15	21	breast	Disease	MESH:D001943
+BC8_BioRED_Task1_Doc506	15	28	breast cancer	Disease	D001943
+BC8_BioRED_Task1_Doc506	15	39	breast cancer metastasis	Disease	MESH:D001943
+BC8_BioRED_Task1_Doc506	22	28	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc506	22	39	cancer metastasis	Disease	MESH:D009362
+BC8_BioRED_Task1_Doc506	29	39	metastasis	Disease	D009362
+BC8_BioRED_Task1_Doc506	58	63	SNAI2	Gene	6591
+BC8_BioRED_Task1_Doc506	124	127	YAP	Gene	10413
+BC8_BioRED_Task1_Doc506	150	155	SNAI2	Gene	6591
+BC8_BioRED_Task1_Doc506	196	198	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc506	226	236	metastasis	Disease	D009362
+BC8_BioRED_Task1_Doc506	301	307	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc506	361	366	SNAI2	Gene	6591
+BC8_BioRED_Task1_Doc506	439	448	E3 ligase	Gene	19823
+BC8_BioRED_Task1_Doc506	485	490	ASB13	Gene	79754
+BC8_BioRED_Task1_Doc506	491	493	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc506	497	516	E3 ubiquitin ligase	Gene	19823
+BC8_BioRED_Task1_Doc506	500	509	ubiquitin	Gene	850620
+BC8_BioRED_Task1_Doc506	530	535	SNAI2	Gene	6591
+BC8_BioRED_Task1_Doc506	572	577	ASB13	Gene	79754
+BC8_BioRED_Task1_Doc506	590	596	breast	Disease	MESH:D001943
+BC8_BioRED_Task1_Doc506	590	603	breast cancer	Disease	D001943
+BC8_BioRED_Task1_Doc506	597	603	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc506	619	623	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc506	650	655	actin	Gene	60
+BC8_BioRED_Task1_Doc506	696	701	ASB13	Gene	79754
+BC8_BioRED_Task1_Doc506	713	717	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc506	713	728	lung metastasis	Disease	MESH:D009362
+BC8_BioRED_Task1_Doc506	718	728	metastasis	Disease	D009362
+BC8_BioRED_Task1_Doc506	743	748	ASB13	Gene	79754
+BC8_BioRED_Task1_Doc506	768	771	YAP	Gene	10413
+BC8_BioRED_Task1_Doc506	850	855	SNAI2	Gene	6591
+BC8_BioRED_Task1_Doc506	881	884	YAP	Gene	10413
+BC8_BioRED_Task1_Doc506	900	903	YAP	Gene	10413
+BC8_BioRED_Task1_Doc506	915	920	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc506	936	942	breast	Disease	MESH:D001943
+BC8_BioRED_Task1_Doc506	936	949	breast cancer	Disease	D001943
+BC8_BioRED_Task1_Doc506	943	949	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc506	951	953	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc506	954	957	YAP	Gene	10413
+BC8_BioRED_Task1_Doc506	1040	1044	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc506	1069	1073	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc506	1069	1084	lung metastasis	Disease	MESH:D009362
+BC8_BioRED_Task1_Doc506	1074	1084	metastasis	Disease	D009362
+BC8_BioRED_Task1_Doc506	1130	1135	ASB13	Gene	79754
+BC8_BioRED_Task1_Doc506	1206	1212	breast	Disease	MESH:D001943
+BC8_BioRED_Task1_Doc506	1206	1219	breast cancer	Disease	D001943
+BC8_BioRED_Task1_Doc506	1213	1219	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc506	1220	1228	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc506	1255	1260	ASB13	Gene	79754
+BC8_BioRED_Task1_Doc506	1261	1263	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc506	1280	1286	breast	Disease	MESH:D001943
+BC8_BioRED_Task1_Doc506	1280	1293	breast cancer	Disease	D001943
+BC8_BioRED_Task1_Doc506	1280	1304	breast cancer metastasis	Disease	MESH:D001943
+BC8_BioRED_Task1_Doc506	1287	1293	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc506	1287	1304	cancer metastasis	Disease	MESH:D009362
+BC8_BioRED_Task1_Doc506	1294	1304	metastasis	Disease	D009362
+BC8_BioRED_Task1_Doc506	1333	1338	SNAI2	Gene	6591
+BC8_BioRED_Task1_Doc506	1387	1390	YAP	Gene	10413
+
+BC8_BioRED_Task1_Doc507|t|Sufentanil vs. Dexmedetomidine as Neuraxial Adjuvants in Cesarean Section: A Mono-Centric Retrospective Comparative Study.
+BC8_BioRED_Task1_Doc507|a|Spinal anesthesia is the best choice for caesarean delivery. This technique is characterized by a complete and predictable nerve block with a fast onset and few complications. Several intrathecal adjuvants are used in order to improve the quality and duration of anesthesia and reduce its side effects. Sixty-two patients who underwent caesarean delivery under spinal anesthesia were included in this medical records review. In this retrospective study, after adopting exclusion criteria, we assessed 24 patients who received Hyperbaric Bupivacaine 0.5% 10 mg and dexmedetomidine 10 mug (G1), and 28 patients who received an institutional standard treatment with Hyperbaric Bupivacaine 0.5% 10 mg and sufentanil 5 mug (G2). We evaluated the difference in terms of motor and sensory block, postoperative pain, and adverse effects during the first 24 h following delivery and neonatal outcome. Our study found that the sufentanil group had a significantly lower requirement for analgesia than the dexmedetomidine group. Postoperative pain, assessed with the VAS scale, was stronger in G1 than in G2 (4 +- 2 vs. 2 +- 1, p-value < 0.01). Differences between the two groups regarding the intraoperative degree of motor and sensory block, motor recovery time, and neonatal Apgar scores were not noticed. Pruritus and shivering were observed only in G2. Itching and shivering did not occur in the dexmedetomidine group. Postoperative analgesia was superior in the sufentanil group, but the incidence of side effects was higher. Adjuvant dexmedetomidine prevented postoperative shivering.
+BC8_BioRED_Task1_Doc507	0	10	Sufentanil	Chemical	MESH:D017409
+BC8_BioRED_Task1_Doc507	15	30	Dexmedetomidine	ChemicalEntity	D020927
+BC8_BioRED_Task1_Doc507	31	33	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc507	246	257	nerve block	Disease	MESH:D006327
+BC8_BioRED_Task1_Doc507	436	444	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc507	627	635	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc507	660	671	Bupivacaine	Chemical	D002045
+BC8_BioRED_Task1_Doc507	687	702	dexmedetomidine	ChemicalEntity	D020927
+BC8_BioRED_Task1_Doc507	723	731	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc507	797	808	Bupivacaine	Chemical	D002045
+BC8_BioRED_Task1_Doc507	824	834	sufentanil	Chemical	MESH:D017409
+BC8_BioRED_Task1_Doc507	912	930	postoperative pain	Disease	D010149
+BC8_BioRED_Task1_Doc507	926	930	pain	Disease	D010146
+BC8_BioRED_Task1_Doc507	1040	1050	sufentanil	Chemical	MESH:D017409
+BC8_BioRED_Task1_Doc507	1118	1133	dexmedetomidine	ChemicalEntity	D020927
+BC8_BioRED_Task1_Doc507	1141	1159	Postoperative pain	Disease	MESH:D010149
+BC8_BioRED_Task1_Doc507	1155	1159	pain	Disease	D010146
+BC8_BioRED_Task1_Doc507	1191	1193	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc507	1421	1429	Pruritus	Disease	MESH:D011537
+BC8_BioRED_Task1_Doc507	1513	1528	dexmedetomidine	ChemicalEntity	D020927
+BC8_BioRED_Task1_Doc507	1561	1563	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc507	1580	1590	sufentanil	Chemical	MESH:D017409
+BC8_BioRED_Task1_Doc507	1633	1635	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc507	1653	1668	dexmedetomidine	ChemicalEntity	D020927
+
+BC8_BioRED_Task1_Doc508|t|In search of immune cellular sources of abnormal cytokines in the blood in autism spectrum disorder: A systematic review of case-control studies.
+BC8_BioRED_Task1_Doc508|a|Abnormal cytokine levels in circulating blood have been repeatedly reported in autism; however, the underlying cause remains unclear. This systematic review aimed to investigate cytokine levels in peripheral blood compartments and identify their potential immune cellular sources in subjects with autism through comparison with controls. We conducted an electronic database search (PubMed, Scopus, ProQuest Central, Ovid, SAGE Journals, and Wiley Online Library) from inception (no time limits) to July 9, 2020, and identified 75 relevant articles. Our qualitative data synthesis focused on results consistently described in at least three independent studies, and we reported the results according to the PRISMA protocol. We found that compared with controls, in subjects with autism, cytokines IL-6, IL-17, TNF-alpha, and IL-1beta increased in the plasma and serum. We also identified monocytes, neutrophils, and CD4+ T cells as potential sources of these elevated cytokines in autism. Cytokines IFN-gamma, TGF-beta, RANTES, and IL-8 were increased in the plasma/serum of subjects with autism, and IFN-gamma was likely produced by CD4+ T cells and natural killer (NK) cells, although conflicting evidence is present for IFN-gamma and TGF-beta. Other cytokines-IL-13, IL-10, IL-5, and IL-4-were found to be unaltered in the plasma/serum and post-stimulated blood immune cells in autistic individuals as compared with controls. The frequencies of T cells, monocytes, B cells, and NK cells were unchanged in subjects with autism as opposed to controls, suggesting that abnormal cytokines were unlikely due to altered cell numbers but might be due to altered functioning of these cells in autism. Our results support existing studies of abnormal cytokines in autism and provide comprehensive evidence of potential cellular sources of these altered cytokines in the context of autism. Systematic Review Registration: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020205224, identifier [CRD42020205224].
+BC8_BioRED_Task1_Doc508	75	81	autism	DiseaseOrPhenotypicFeature	D001321
+BC8_BioRED_Task1_Doc508	155	163	cytokine	Disease	MESH:D000080424
+BC8_BioRED_Task1_Doc508	324	332	cytokine	Disease	MESH:D000080424
+BC8_BioRED_Task1_Doc508	443	449	autism	DiseaseOrPhenotypicFeature	D001321
+BC8_BioRED_Task1_Doc508	924	930	autism	DiseaseOrPhenotypicFeature	D001321
+BC8_BioRED_Task1_Doc508	942	946	IL-6	Gene	3569
+BC8_BioRED_Task1_Doc508	948	953	IL-17	Gene	3605
+BC8_BioRED_Task1_Doc508	955	964	TNF-alpha	Gene	24835
+BC8_BioRED_Task1_Doc508	970	978	IL-1beta	Gene	16176,3553
+BC8_BioRED_Task1_Doc508	1066	1067	T	Chemical	D013739
+BC8_BioRED_Task1_Doc508	1074	1076	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc508	1126	1132	autism	DiseaseOrPhenotypicFeature	D001321
+BC8_BioRED_Task1_Doc508	1144	1153	IFN-gamma	Gene	15978
+BC8_BioRED_Task1_Doc508	1155	1163	TGF-beta	Gene	7040,7042,7043
+BC8_BioRED_Task1_Doc508	1165	1171	RANTES	GeneOrGeneProduct	6352,81780
+BC8_BioRED_Task1_Doc508	1177	1181	IL-8	Gene	3576
+BC8_BioRED_Task1_Doc508	1234	1240	autism	DiseaseOrPhenotypicFeature	D001321
+BC8_BioRED_Task1_Doc508	1246	1255	IFN-gamma	Gene	15978
+BC8_BioRED_Task1_Doc508	1257	1259	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc508	1284	1285	T	Chemical	D013739
+BC8_BioRED_Task1_Doc508	1368	1377	IFN-gamma	Gene	15978
+BC8_BioRED_Task1_Doc508	1382	1390	TGF-beta	Gene	7040,7042,7043
+BC8_BioRED_Task1_Doc508	1408	1413	IL-13	Gene	3596
+BC8_BioRED_Task1_Doc508	1415	1420	IL-10	Gene	3586
+BC8_BioRED_Task1_Doc508	1422	1426	IL-5	Gene	3567
+BC8_BioRED_Task1_Doc508	1526	1534	autistic	DiseaseOrPhenotypicFeature	D001321
+BC8_BioRED_Task1_Doc508	1547	1549	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc508	1593	1594	T	Chemical	D013739
+BC8_BioRED_Task1_Doc508	1667	1673	autism	DiseaseOrPhenotypicFeature	D001321
+BC8_BioRED_Task1_Doc508	1674	1676	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc508	1762	1766	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc508	1833	1839	autism	DiseaseOrPhenotypicFeature	D001321
+BC8_BioRED_Task1_Doc508	1903	1909	autism	DiseaseOrPhenotypicFeature	D001321
+BC8_BioRED_Task1_Doc508	2020	2026	autism	DiseaseOrPhenotypicFeature	D001321
+
+BC8_BioRED_Task1_Doc509|t|Comprehensive Lipidome Profiling of the Kidney in Early-Stage Diabetic Nephropathy.
+BC8_BioRED_Task1_Doc509|a|Metabolic changes associated with diabetes are reported to lead to the onset of early-stage diabetic nephropathy (DN). Furthermore, lipotoxicity is implicated in renal dysfunction. Most studies of DN have focused on a single or limited number of lipids, and the lipidome of the kidney during early-stage DN remains to be elucidated. In the present study, we aimed to comprehensively identify lipid abnormalities during early-stage DN; to this end, we established an early-stage DN rat model by feeding a high-sucrose and high-fat diet combined with administration of low-dose streptozotocin. Using a high-coverage, targeted lipidomic approach, we established the lipid profile, comprising 437 lipid species and 25 lipid classes, of the kidney cortex in normal rats and the DN rat model. Our findings additionally confirmed that the DN rat model had been successfully established. We observed distinct lipidomic signatures in the DN kidney, with characteristic alterations in side chain composition and degree of unsaturation. Glyceride lipids, especially cholesteryl esters, showed a significant increase in the DN kidney cortex. The levels of most phospholipids exhibited a decline, except those of phospholipids with side chain of 36:1. Furthermore, the levels of lyso-phospholipids and sphingolipids, including ceramide and its derivatives, were dramatically elevated in the present DN rat model. Our findings, which provide a comprehensive lipidome of the kidney cortex in rats with DN, are expected to be useful for the identification of pathologically relevant lipid species in DN. Furthermore, the results represent novel insights into the mechanistic basis of DN.
+BC8_BioRED_Task1_Doc509	62	70	Diabetic	Disease	MESH:D003920
+BC8_BioRED_Task1_Doc509	62	82	Diabetic Nephropathy	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	118	126	diabetes	Disease	D003920
+BC8_BioRED_Task1_Doc509	143	147	lead	Chemical	D007854
+BC8_BioRED_Task1_Doc509	170	175	stage	Disease	MESH:D007676
+BC8_BioRED_Task1_Doc509	176	184	diabetic	Disease	D003920
+BC8_BioRED_Task1_Doc509	176	196	diabetic nephropathy	Disease	D003928
+BC8_BioRED_Task1_Doc509	185	196	nephropathy	Disease	D007674
+BC8_BioRED_Task1_Doc509	246	263	renal dysfunction	Disease	D007674
+BC8_BioRED_Task1_Doc509	281	283	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	330	336	lipids	Chemical	D008055
+BC8_BioRED_Task1_Doc509	362	368	kidney	Disease	MESH:D007674
+BC8_BioRED_Task1_Doc509	382	387	stage	Disease	MESH:D007676
+BC8_BioRED_Task1_Doc509	388	390	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	476	481	lipid	Chemical	D008055
+BC8_BioRED_Task1_Doc509	509	514	stage	Disease	MESH:D007676
+BC8_BioRED_Task1_Doc509	556	561	stage	Disease	MESH:D007676
+BC8_BioRED_Task1_Doc509	562	564	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	565	568	rat	OrganismTaxon	10116
+BC8_BioRED_Task1_Doc509	593	600	sucrose	Chemical	MESH:D013395
+BC8_BioRED_Task1_Doc509	610	613	fat	Chemical	D004041
+BC8_BioRED_Task1_Doc509	660	674	streptozotocin	Chemical	D013311
+BC8_BioRED_Task1_Doc509	747	752	lipid	Chemical	D008055
+BC8_BioRED_Task1_Doc509	777	782	lipid	Chemical	D008055
+BC8_BioRED_Task1_Doc509	798	803	lipid	Chemical	D008055
+BC8_BioRED_Task1_Doc509	820	826	kidney	Disease	MESH:D007674
+BC8_BioRED_Task1_Doc509	844	848	rats	OrganismTaxon	10116
+BC8_BioRED_Task1_Doc509	857	859	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	860	863	rat	OrganismTaxon	10116
+BC8_BioRED_Task1_Doc509	916	918	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	919	922	rat	OrganismTaxon	10116
+BC8_BioRED_Task1_Doc509	1013	1015	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	1016	1022	kidney	Disease	MESH:D007674
+BC8_BioRED_Task1_Doc509	1044	1055	alterations	Disease	MESH:D004408
+BC8_BioRED_Task1_Doc509	1110	1119	Glyceride	Chemical	MESH:D005989
+BC8_BioRED_Task1_Doc509	1120	1126	lipids	Chemical	D008055
+BC8_BioRED_Task1_Doc509	1139	1157	cholesteryl esters	ChemicalEntity	D002788
+BC8_BioRED_Task1_Doc509	1196	1198	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	1199	1205	kidney	Disease	MESH:D007674
+BC8_BioRED_Task1_Doc509	1233	1246	phospholipids	Chemical	MESH:D010743
+BC8_BioRED_Task1_Doc509	1240	1246	lipids	Chemical	D008055
+BC8_BioRED_Task1_Doc509	1284	1297	phospholipids	Chemical	MESH:D010743
+BC8_BioRED_Task1_Doc509	1291	1297	lipids	Chemical	D008055
+BC8_BioRED_Task1_Doc509	1350	1368	lyso-phospholipids	Chemical	MESH:D008246
+BC8_BioRED_Task1_Doc509	1355	1368	phospholipids	Chemical	MESH:D010743
+BC8_BioRED_Task1_Doc509	1362	1368	lipids	Chemical	D008055
+BC8_BioRED_Task1_Doc509	1373	1386	sphingolipids	Chemical	MESH:D013107
+BC8_BioRED_Task1_Doc509	1380	1386	lipids	Chemical	D008055
+BC8_BioRED_Task1_Doc509	1398	1406	ceramide	Chemical	MESH:D002518
+BC8_BioRED_Task1_Doc509	1470	1472	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	1473	1476	rat	OrganismTaxon	10116
+BC8_BioRED_Task1_Doc509	1544	1550	kidney	Disease	MESH:D007674
+BC8_BioRED_Task1_Doc509	1561	1565	rats	OrganismTaxon	10116
+BC8_BioRED_Task1_Doc509	1571	1573	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	1651	1656	lipid	Chemical	D008055
+BC8_BioRED_Task1_Doc509	1668	1670	DN	Disease	MESH:D003928
+BC8_BioRED_Task1_Doc509	1752	1754	DN	Disease	MESH:D003928
+
+BC8_BioRED_Task2_Doc510|t|Transgelin increases metastatic potential of colorectal cancer cells in vivo and alters expression of genes involved in cell motility.
+BC8_BioRED_Task2_Doc510|a|BACKGROUND: Transgelin is an actin-binding protein that promotes motility in normal cells. Although the role of transgelin in cancer is controversial, a number of studies have shown that elevated levels correlate with aggressive tumor behavior, advanced stage, and poor prognosis. Here we sought to determine the role of transgelin more directly by determining whether experimental manipulation of transgelin levels in colorectal cancer (CRC) cells led to changes in metastatic potential in vivo. METHODS: Isogenic CRC cell lines that differ in transgelin expression were characterized using in vitro assays of growth and invasiveness and a mouse tail vein assay of experimental metastasis. Downstream effects of transgelin overexpression were investigated by gene expression profiling and quantitative PCR. RESULTS: Stable overexpression of transgelin in RKO cells, which have low endogenous levels, led to increased invasiveness, growth at low density, and growth in soft agar. Overexpression also led to an increase in the number and size of lung metastases in the mouse tail vein injection model. Similarly, attenuation of transgelin expression in HCT116 cells, which have high endogenous levels, decreased metastases in the same model. Investigation of mRNA expression patterns showed that transgelin overexpression altered the levels of approximately 250 other transcripts, with over-representation of genes that affect function of actin or other cytoskeletal proteins. Changes included increases in HOOK1, SDCCAG8, ENAH/Mena, and TNS1 and decreases in EMB, BCL11B, and PTPRD. CONCLUSIONS: Increases or decreases in transgelin levels have reciprocal effects on tumor cell behavior, with higher expression promoting metastasis. Chronic overexpression influences steady-state levels of mRNAs for metastasis-related genes.
+BC8_BioRED_Task2_Doc510	0	10	Transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	21	31	metastatic	Disease	MESH:C538445
+BC8_BioRED_Task2_Doc510	45	62	colorectal cancer	Disease	D015179
+BC8_BioRED_Task2_Doc510	56	62	cancer	Disease	D009369
+BC8_BioRED_Task2_Doc510	120	124	cell	Disease	MESH:C538614
+BC8_BioRED_Task2_Doc510	147	157	Transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	164	185	actin-binding protein	GeneOrGeneProduct	21345,6876
+BC8_BioRED_Task2_Doc510	247	257	transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	261	267	cancer	Disease	D009369
+BC8_BioRED_Task2_Doc510	364	369	tumor	Disease	D009369
+BC8_BioRED_Task2_Doc510	389	394	stage	Disease	MESH:D007676
+BC8_BioRED_Task2_Doc510	456	466	transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	533	543	transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	554	571	colorectal cancer	Disease	D015179
+BC8_BioRED_Task2_Doc510	565	571	cancer	Disease	D009369
+BC8_BioRED_Task2_Doc510	602	612	metastatic	Disease	MESH:C538445
+BC8_BioRED_Task2_Doc510	650	653	CRC	Disease	D015179
+BC8_BioRED_Task2_Doc510	654	658	cell	Disease	MESH:C538614
+BC8_BioRED_Task2_Doc510	680	690	transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	776	781	mouse	OrganismTaxon	10090
+BC8_BioRED_Task2_Doc510	814	824	metastasis	Disease	D009362
+BC8_BioRED_Task2_Doc510	848	858	transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	977	987	transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	991	994	RKO	CellLine	CVCL_0504
+BC8_BioRED_Task2_Doc510	1109	1113	agar	Chemical	D000362
+BC8_BioRED_Task2_Doc510	1180	1184	lung	Disease	MESH:D008171
+BC8_BioRED_Task2_Doc510	1180	1195	lung metastases	DiseaseOrPhenotypicFeature	D008175
+BC8_BioRED_Task2_Doc510	1185	1195	metastases	Disease	D009362
+BC8_BioRED_Task2_Doc510	1203	1208	mouse	OrganismTaxon	10090
+BC8_BioRED_Task2_Doc510	1262	1272	transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	1287	1293	HCT116	CellLine	CVCL_0291
+BC8_BioRED_Task2_Doc510	1346	1356	metastases	Disease	D009362
+BC8_BioRED_Task2_Doc510	1430	1440	transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	1573	1578	actin	Gene	60
+BC8_BioRED_Task2_Doc510	1588	1609	cytoskeletal proteins	GeneOrGeneProduct	51361,55740,7145
+BC8_BioRED_Task2_Doc510	1641	1646	HOOK1	GeneOrGeneProduct	51361
+BC8_BioRED_Task2_Doc510	1648	1655	SDCCAG8	GeneOrGeneProduct	10806
+BC8_BioRED_Task2_Doc510	1662	1666	Mena	GeneOrGeneProduct	55740
+BC8_BioRED_Task2_Doc510	1672	1676	TNS1	GeneOrGeneProduct	7145
+BC8_BioRED_Task2_Doc510	1694	1697	EMB	GeneOrGeneProduct	133418
+BC8_BioRED_Task2_Doc510	1699	1705	BCL11B	GeneOrGeneProduct	64919
+BC8_BioRED_Task2_Doc510	1711	1716	PTPRD	GeneOrGeneProduct	5789
+BC8_BioRED_Task2_Doc510	1757	1767	transgelin	GeneOrGeneProduct	6876
+BC8_BioRED_Task2_Doc510	1802	1807	tumor	Disease	D009369
+BC8_BioRED_Task2_Doc510	1808	1812	cell	Disease	MESH:C538614
+BC8_BioRED_Task2_Doc510	1856	1866	metastasis	Disease	D009362
+
+BC8_BioRED_Task1_Doc511|t|Effects of Protein-Chelated Zinc Combined with Mannan-Rich Fraction to Replace High-Dose Zinc Oxide on Growth Performance, Nutrient Digestibility, and Intestinal Health in Weaned Piglets.
+BC8_BioRED_Task1_Doc511|a|A total of 168 weaned piglets (average initial body weight of 7.70 +- 0.75 kg) were used in a 4-week feeding trial to investigate the effects of dietary supplementation with protein-chelated zinc (Zn-Pro) alone or combined with a mannan-rich fraction (MRF) to replace high-dose zinc oxide (ZnO) for weaned piglets. The dietary treatments included a basal diet as control (CON), a ZnO diet (basal diet + 1600 mg Zn/kg from ZnO), a Zn-Pro diet (basal diet + 60 mg Zn/kg from Zn-Pro), and a MRF plus Zn-Pro diet (MRP, basal diet + 800 mg/kg MRF + 60 mg Zn/kg from Zn-Pro). The average daily gain of piglets in the MRP group was higher (p <= 0.05) than that in CON and Zn-Pro groups during d 15-28 and d 1-28 of experiment. The apparent total tract digestibility of dry matter, organic matter, and crude protein in the MRP group was higher (p <= 0.05) than that in the CON group. The serum insulin-like growth factor-1 level in the MRP group was markedly higher (p <= 0.05) than that of piglets in the other three treatment groups. Piglets fed the Zn-Pro and ZnO diets had greater (p <= 0.05) acetic acid in cecal digesta than those fed the CON diet, while the MRP diet had higher (p <= 0.05) cecal propionate concentration than those that were fed the CON diet on d 28 of experiment. Moreover, the villus height of ileum in the MRP group tended to be greater than the CON group (p = 0.09). Compared with the CON and MRP groups, the relative abundance of Lactobacillaceae (p = 0.08) and Lachnospiraceae (p = 0.09) in the Zn-Pro group showed an increasing trend. The relative abundance of Prevotellaceae in the Zn-Pro group was significantly lower (p <= 0.05) than that in the MRP group. In conclusion, the combined addition of MRF and Zn-Pro acted as a suitable alternative to ZnO to beneficially support the growth performance and intestinal health of weaned piglets, as well as contribute to a lower diarrhea rate and environmental pollution from fecal zinc excretion.
+BC8_BioRED_Task1_Doc511	89	99	Zinc Oxide	Chemical	MESH:D015034
+BC8_BioRED_Task1_Doc511	240	246	weight	Disease	MESH:D015431
+BC8_BioRED_Task1_Doc511	379	383	zinc	Chemical	D015032
+BC8_BioRED_Task1_Doc511	466	470	zinc	Chemical	D015032
+BC8_BioRED_Task1_Doc511	466	476	zinc oxide	Chemical	MESH:D015034
+BC8_BioRED_Task1_Doc511	548	550	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc511	568	571	ZnO	Chemical	MESH:D015034
+BC8_BioRED_Task1_Doc511	698	701	MRP	Gene	65108
+BC8_BioRED_Task1_Doc511	799	802	MRP	Gene	65108
+BC8_BioRED_Task1_Doc511	810	812	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc511	950	953	dry	Disease	MESH:D015352
+BC8_BioRED_Task1_Doc511	1003	1006	MRP	Gene	65108
+BC8_BioRED_Task1_Doc511	1014	1016	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc511	1074	1102	insulin-like growth factor-1	Gene	3479
+BC8_BioRED_Task1_Doc511	1116	1119	MRP	Gene	65108
+BC8_BioRED_Task1_Doc511	1127	1129	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc511	1243	1246	ZnO	Chemical	MESH:D015034
+BC8_BioRED_Task1_Doc511	1277	1288	acetic acid	Chemical	D019342
+BC8_BioRED_Task1_Doc511	1345	1348	MRP	Gene	65108
+BC8_BioRED_Task1_Doc511	1383	1393	propionate	Chemical	MESH:D011422
+BC8_BioRED_Task1_Doc511	1513	1516	MRP	Gene	65108
+BC8_BioRED_Task1_Doc511	1601	1604	MRP	Gene	65108
+BC8_BioRED_Task1_Doc511	1808	1810	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc511	1860	1863	MRP	Gene	65108
+BC8_BioRED_Task1_Doc511	1932	1934	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc511	1961	1964	ZnO	Chemical	MESH:D015034
+BC8_BioRED_Task1_Doc511	2027	2033	health	Disease	OMIM:603663
+BC8_BioRED_Task1_Doc511	2053	2055	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc511	2061	2063	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc511	2086	2094	diarrhea	Disease	D003967
+BC8_BioRED_Task1_Doc511	2139	2143	zinc	Chemical	D015032
+
+BC8_BioRED_Task1_Doc512|t|Early life stressful experiences escalate aggressive behavior in adulthood via changes in transthyretin expression and function.
+BC8_BioRED_Task1_Doc512|a|Escalated and inappropriate levels of aggressive behavior referred to as pathological in psychiatry can lead to violent outcomes with detrimental impact on health and society. Early life stressful experiences might increase the risk of developing pathological aggressive behavior in adulthood, though molecular mechanisms remain elusive. Here, we provide prefrontal cortex and hypothalamus specific transcriptome profiles of peripubertal stress (PPS) exposed Balb/c adult male mice exhibiting escalated aggression and adult female mice resilient to such aberrant behavioral responses. We identify transthyretin (TTR), a well known thyroid hormone transporter, as a key regulator of PPS induced escalated aggressive behavior in males. Brain region specific long-term changes in Ttr gene expression and thyroid hormone (TH) availability were evident in PPS induced escalated aggressive male mice, circulating TH being unaltered. Ttr promoter methylation marks were also altered being hypermethylated in hypothalamus and hypomethylated in prefrontal cortex corroborating with its expression pattern. Further, Ttr knockdown in hypothalamus resulted in escalated aggressive behavior in males without PPS and also reduced TH levels and expression of TH responsive genes (Nrgn, Trh and Hr). Escalated aggressive behavior along with reduced Ttr gene expression and TH levels in hypothalamus was also evident in next generation F1 male progenies. Our findings reveal that stressful experiences during puberty might trigger lasting escalated aggression by modulating TTR expression in brain. TTR can serve as a potential target in reversal of escalated aggression and related psychopathologies.
+BC8_BioRED_Task1_Doc512	42	61	aggressive behavior	Disease	D001523
+BC8_BioRED_Task1_Doc512	90	103	transthyretin	Gene	22139
+BC8_BioRED_Task1_Doc512	167	186	aggressive behavior	Disease	D001523
+BC8_BioRED_Task1_Doc512	199	201	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc512	233	237	lead	Chemical	D007854
+BC8_BioRED_Task1_Doc512	285	291	health	Disease	OMIM:603663
+BC8_BioRED_Task1_Doc512	376	408	pathological aggressive behavior	Disease	MESH:D001523
+BC8_BioRED_Task1_Doc512	389	408	aggressive behavior	Disease	D001523
+BC8_BioRED_Task1_Doc512	588	594	Balb/c	CellLine	CVCL_0184
+BC8_BioRED_Task1_Doc512	592	594	/c	CellLine	CVCL_9103
+BC8_BioRED_Task1_Doc512	595	600	adult	Disease	MESH:C538052
+BC8_BioRED_Task1_Doc512	606	610	mice	OrganismTaxon	10090
+BC8_BioRED_Task1_Doc512	632	642	aggression	Disease	D001523
+BC8_BioRED_Task1_Doc512	647	652	adult	Disease	MESH:C538052
+BC8_BioRED_Task1_Doc512	660	664	mice	OrganismTaxon	10090
+BC8_BioRED_Task1_Doc512	692	702	behavioral	Disease	MESH:D001523
+BC8_BioRED_Task1_Doc512	726	739	transthyretin	Gene	22139
+BC8_BioRED_Task1_Doc512	760	767	thyroid	Disease	MESH:D013959
+BC8_BioRED_Task1_Doc512	789	791	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc512	833	852	aggressive behavior	Disease	D001523
+BC8_BioRED_Task1_Doc512	906	909	Ttr	Gene	22139
+BC8_BioRED_Task1_Doc512	930	937	thyroid	Disease	MESH:D013959
+BC8_BioRED_Task1_Doc512	1018	1022	mice	OrganismTaxon	10090
+BC8_BioRED_Task1_Doc512	1036	1038	TH	Chemical	D013963
+BC8_BioRED_Task1_Doc512	1056	1059	Ttr	Gene	22139
+BC8_BioRED_Task1_Doc512	1235	1238	Ttr	Gene	22139
+BC8_BioRED_Task1_Doc512	1287	1306	aggressive behavior	Disease	D001523
+BC8_BioRED_Task1_Doc512	1345	1347	TH	Chemical	D013963
+BC8_BioRED_Task1_Doc512	1373	1375	TH	Chemical	D013963
+BC8_BioRED_Task1_Doc512	1394	1398	Nrgn	Gene	64011
+BC8_BioRED_Task1_Doc512	1400	1403	Trh	Gene	22044
+BC8_BioRED_Task1_Doc512	1423	1442	aggressive behavior	Disease	D001523
+BC8_BioRED_Task1_Doc512	1462	1465	Ttr	Gene	22139
+BC8_BioRED_Task1_Doc512	1486	1488	TH	Chemical	D013963
+BC8_BioRED_Task1_Doc512	1513	1515	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc512	1661	1671	aggression	Disease	D001523
+BC8_BioRED_Task1_Doc512	1686	1689	TTR	Gene	22139
+BC8_BioRED_Task1_Doc512	1711	1714	TTR	Gene	22139
+BC8_BioRED_Task1_Doc512	1725	1727	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc512	1772	1782	aggression	Disease	D001523
+
+BC8_BioRED_Task1_Doc513|t|Tumor factors stimulate lysosomal degradation of tumor antigens and undermine their cross-presentation in lung cancer.
+BC8_BioRED_Task1_Doc513|a|Activities of dendritic cells (DCs) that present tumor antigens are often suppressed in tumors. Here we report that this suppression is induced by tumor microenvironment-derived factors, which activate the activating transcription factor-3 (ATF3) transcription factor and downregulate cholesterol 25-hydroxylase (CH25H). Loss of CH25H in antigen presenting cells isolated from human lung tumors is associated with tumor growth and lung cancer progression. Accordingly, mice lacking CH25H in DCs exhibit an accelerated tumor growth, decreased infiltration and impaired activation of intratumoral CD8+ T cells. These mice do not establish measurable long-term immunity against malignant cells that undergo chemotherapy-induced immunogenic cell death. Mechanistically, downregulation of CH25H stimulates membrane fusion between endo-phagosomes and lysosomes, accelerates lysosomal degradation and restricts cross-presentation of tumor antigens in the intratumoral DCs. Administration of STING agonist MSA-2 reduces the lysosomal activity in DCs, restores antigen cross presentation, and increases therapeutic efficacy of PD-1 blockade against tumour challenge in a CH25H-dependent manner. These studies highlight the importance of downregulation of CH25H in DCs for tumor immune evasion and resistance to therapy.
+BC8_BioRED_Task1_Doc513	0	5	Tumor	Disease	D009369
+BC8_BioRED_Task1_Doc513	49	54	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc513	106	110	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc513	106	117	lung cancer	Disease	D008175
+BC8_BioRED_Task1_Doc513	111	117	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc513	168	173	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc513	207	213	tumors	Disease	D009369
+BC8_BioRED_Task1_Doc513	266	271	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc513	325	358	activating transcription factor-3	Gene	467
+BC8_BioRED_Task1_Doc513	404	415	cholesterol	Chemical	D002784
+BC8_BioRED_Task1_Doc513	404	430	cholesterol 25-hydroxylase	Gene	9023
+BC8_BioRED_Task1_Doc513	448	453	CH25H	Gene	9023
+BC8_BioRED_Task1_Doc513	496	501	human	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc513	502	506	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc513	502	513	lung tumors	Disease	MESH:D008175
+BC8_BioRED_Task1_Doc513	507	513	tumors	Disease	D009369
+BC8_BioRED_Task1_Doc513	533	538	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc513	550	554	lung	Disease	MESH:D008171
+BC8_BioRED_Task1_Doc513	550	561	lung cancer	Disease	D008175
+BC8_BioRED_Task1_Doc513	555	561	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc513	588	592	mice	OrganismTaxon	10090
+BC8_BioRED_Task1_Doc513	601	606	CH25H	Gene	9023
+BC8_BioRED_Task1_Doc513	637	642	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc513	719	720	T	Chemical	D013739
+BC8_BioRED_Task1_Doc513	734	738	mice	OrganismTaxon	10090
+BC8_BioRED_Task1_Doc513	794	803	malignant	Disease	MESH:D009369
+BC8_BioRED_Task1_Doc513	856	860	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc513	861	866	death	Disease	D003643
+BC8_BioRED_Task1_Doc513	903	908	CH25H	Gene	9023
+BC8_BioRED_Task1_Doc513	1045	1050	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc513	1103	1108	STING	Gene	72512
+BC8_BioRED_Task1_Doc513	1237	1241	PD-1	Gene	18566
+BC8_BioRED_Task1_Doc513	1259	1265	tumour	Disease	D009369
+BC8_BioRED_Task1_Doc513	1365	1370	CH25H	Gene	9023
+BC8_BioRED_Task1_Doc513	1382	1387	tumor	Disease	D009369
+
+BC8_BioRED_Task1_Doc514|t|Central Interaction Between L-Ornithine and Neuropeptide Y in the Regulation of Feeding Behavior of Neonatal Chicks.
+BC8_BioRED_Task1_Doc514|a|Ornithine has been identified as a potential satiety signal in the brains of neonatal chicks. We hypothesized that brain nutrient signals such as amino acids and appetite-related neuropeptides synergistically regulate food intake. To test this hypothesis, we investigated the interaction between neuropeptide Y (NPY) and ornithine in the control of feeding behavior in chicks and the associated central and peripheral amino acid metabolic processes. Five-day-old chicks were intracerebroventricularly injected with saline, NPY (375 pmol), or NPY plus ornithine (2 or 4 mumol) at 10 mul per chick, and then subjected to ad libitum feeding conditions; food intake was monitored for 30 min after injection. Brain and plasma samples were collected after the experiment to determine free amino acid concentrations. Co-injection of NPY and ornithine significantly attenuated the orexigenic effect induced by NPY in a dose-dependent manner. Central NPY significantly decreased amino adipic acid, asparagine, gamma-aminobutyric acid, leucine, phenylalanine, tyrosine, and isoleucine levels, but significantly increased lysine levels in the brain. Co-injection of NPY and ornithine significantly increased ornithine and proline levels in all examined brain regions, but decreased diencephalic tryptophan and glycine levels compared with those of the control and NPY-alone groups. Co-injection of NPY and high-dose ornithine significantly decreased methionine levels in all brain regions. Central NPY significantly suppressed the plasma concentrations of amino acids, including proline, asparagine, methionine, phenylalanine, tyrosine, leucine, isoleucine, glycine, glutamine, alanine, arginine, and valine, and this reduction was greater when NPY was co-injected with ornithine. These results suggest that brain ornithine interacts with NPY to regulate food intake in neonatal chicks. Furthermore, central NPY may induce an anabolic effect that is modified by co-injection with ornithine.
+BC8_BioRED_Task1_Doc514	28	39	L-Ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	30	39	Ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	44	58	Neuropeptide Y	Gene	396464
+BC8_BioRED_Task1_Doc514	117	126	Ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	128	130	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc514	147	149	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc514	260	262	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc514	413	427	neuropeptide Y	Gene	396464
+BC8_BioRED_Task1_Doc514	438	447	ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	640	643	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	659	662	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	668	677	ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	707	712	chick	OrganismTaxon	9031
+BC8_BioRED_Task1_Doc514	780	782	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc514	943	946	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	951	960	ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	1019	1022	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	1059	1062	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	1093	1104	adipic acid	Chemical	MESH:C029900
+BC8_BioRED_Task1_Doc514	1106	1116	asparagine	Chemical	D001216
+BC8_BioRED_Task1_Doc514	1118	1141	gamma-aminobutyric acid	Chemical	MESH:D005680
+BC8_BioRED_Task1_Doc514	1143	1150	leucine	Chemical	D007930
+BC8_BioRED_Task1_Doc514	1152	1165	phenylalanine	Chemical	MESH:D010649
+BC8_BioRED_Task1_Doc514	1167	1175	tyrosine	Chemical	MESH:D014443
+BC8_BioRED_Task1_Doc514	1181	1191	isoleucine	Chemical	MESH:D007532
+BC8_BioRED_Task1_Doc514	1184	1191	leucine	Chemical	D007930
+BC8_BioRED_Task1_Doc514	1228	1234	lysine	Chemical	MESH:D008239
+BC8_BioRED_Task1_Doc514	1272	1275	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	1280	1289	ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	1314	1323	ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	1328	1335	proline	Chemical	MESH:D011392
+BC8_BioRED_Task1_Doc514	1401	1411	tryptophan	Chemical	D014364
+BC8_BioRED_Task1_Doc514	1416	1423	glycine	Chemical	D005998
+BC8_BioRED_Task1_Doc514	1504	1507	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	1522	1531	ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	1556	1566	methionine	Chemical	D008715
+BC8_BioRED_Task1_Doc514	1604	1607	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	1685	1692	proline	Chemical	MESH:D011392
+BC8_BioRED_Task1_Doc514	1694	1704	asparagine	Chemical	D001216
+BC8_BioRED_Task1_Doc514	1706	1716	methionine	Chemical	D008715
+BC8_BioRED_Task1_Doc514	1718	1731	phenylalanine	Chemical	MESH:D010649
+BC8_BioRED_Task1_Doc514	1733	1741	tyrosine	Chemical	MESH:D014443
+BC8_BioRED_Task1_Doc514	1743	1750	leucine	Chemical	D007930
+BC8_BioRED_Task1_Doc514	1752	1762	isoleucine	Chemical	MESH:D007532
+BC8_BioRED_Task1_Doc514	1755	1762	leucine	Chemical	D007930
+BC8_BioRED_Task1_Doc514	1764	1771	glycine	Chemical	D005998
+BC8_BioRED_Task1_Doc514	1773	1782	glutamine	Chemical	D018698
+BC8_BioRED_Task1_Doc514	1793	1801	arginine	Chemical	MESH:D001120
+BC8_BioRED_Task1_Doc514	1807	1813	valine	Chemical	MESH:D014633
+BC8_BioRED_Task1_Doc514	1835	1837	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc514	1851	1854	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	1856	1858	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc514	1876	1885	ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	1920	1929	ornithine	Chemical	MESH:D009952
+BC8_BioRED_Task1_Doc514	1945	1948	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	2014	2017	NPY	Gene	396464
+BC8_BioRED_Task1_Doc514	2086	2095	ornithine	Chemical	MESH:D009952
+
+BC8_BioRED_Task1_Doc515|t|Modulation of Neutrophil Activity by Soluble Complement Cleavage Products-An In-Depth Analysis.
+BC8_BioRED_Task1_Doc515|a|The cellular and fluid phase-innate immune responses of many diseases predominantly involve activated neutrophil granulocytes and complement factors. However, a comparative systematic analysis of the early impact of key soluble complement cleavage products, including anaphylatoxins, on neutrophil granulocyte function is lacking. Neutrophil activity was monitored by flow cytometry regarding cellular (electro-)physiology, cellular activity, and changes in the surface expression of activation markers. The study revealed no major effects induced by C3a or C4a on neutrophil functions. By contrast, exposure to C5a or C5a des-Arg stimulated neutrophil activity as reflected in changes in membrane potential, intracellular pH, glucose uptake, and cellular size. Similarly, C5a and C5a des-Arg but no other monitored complement cleavage product enhanced phagocytosis and reactive oxygen species generation. C5a and C5a des-Arg also altered the neutrophil surface expression of several complement receptors and neutrophil activation markers, including C5aR1, CD62L, CD10, and CD11b, among others. In addition, a detailed characterization of the C5a-induced effects was performed with a time resolution of seconds. The multiparametric response of neutrophils was further analyzed by a principal component analysis, revealing CD11b, CD10, and CD16 to be key surrogates of the C5a-induced effects. Overall, we provide a comprehensive insight into the very early interactions of neutrophil granulocytes with activated complement split products and the resulting neutrophil activity. The results provide a basis for a better and, importantly, time-resolved and multiparametric understanding of neutrophil-related (patho-)physiologies.
+BC8_BioRED_Task1_Doc515	74	76	An	OrganismTaxon	123651
+BC8_BioRED_Task1_Doc515	448	450	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc515	647	650	C3a	Gene	718
+BC8_BioRED_Task1_Doc515	654	657	C4a	Gene	720
+BC8_BioRED_Task1_Doc515	686	694	contrast	Chemical	D003287
+BC8_BioRED_Task1_Doc515	708	711	C5a	Gene	728
+BC8_BioRED_Task1_Doc515	715	718	C5a	Gene	728
+BC8_BioRED_Task1_Doc515	723	726	Arg	Chemical	MESH:D001120
+BC8_BioRED_Task1_Doc515	758	760	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc515	823	830	glucose	Chemical	D005947
+BC8_BioRED_Task1_Doc515	869	872	C5a	Gene	728
+BC8_BioRED_Task1_Doc515	877	880	C5a	Gene	728
+BC8_BioRED_Task1_Doc515	885	888	Arg	Chemical	MESH:D001120
+BC8_BioRED_Task1_Doc515	966	989	reactive oxygen species	Chemical	D017382
+BC8_BioRED_Task1_Doc515	975	981	oxygen	Chemical	D010100
+BC8_BioRED_Task1_Doc515	1002	1005	C5a	Gene	728
+BC8_BioRED_Task1_Doc515	1010	1013	C5a	Gene	728
+BC8_BioRED_Task1_Doc515	1018	1021	Arg	Chemical	MESH:D001120
+BC8_BioRED_Task1_Doc515	1146	1151	C5aR1	Gene	728
+BC8_BioRED_Task1_Doc515	1153	1158	CD62L	Gene	6402
+BC8_BioRED_Task1_Doc515	1160	1164	CD10	Gene	4311
+BC8_BioRED_Task1_Doc515	1170	1175	CD11b	Gene	16409
+BC8_BioRED_Task1_Doc515	1260	1262	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc515	1353	1355	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc515	1418	1423	CD11b	Gene	16409
+BC8_BioRED_Task1_Doc515	1425	1429	CD10	Gene	4311
+BC8_BioRED_Task1_Doc515	1435	1439	CD16	Gene	2214
+
+BC8_BioRED_Task1_Doc516|t|A C-X-C Chemokine Receptor Type 2-Dominated Cross-talk between Tumor Cells and Macrophages Drives Gastric Cancer Metastasis.
+BC8_BioRED_Task1_Doc516|a|PURPOSE: C-X-C chemokine receptor type 2 (CXCR2) is a key regulator that drives immune suppression and inflammation in tumor microenvironment. CXCR2-targeted therapy has shown promising results in several solid tumors. However, the underlying mechanism of CXCR2-mediated cross-talk between gastric cancer cells and macrophages still remains unclear.Experimental Design: The expression of CXCR2 and its ligands in 155 human gastric cancer tissues was analyzed via immunohistochemistry, and the correlations with clinical characteristics were evaluated. A coculture system was established, and functional assays, including ELISA, transwell, cell viability assay, and qPCR, were performed to determine the role of the CXCR2 signaling axis in promoting gastric cancer growth and metastasis. A xenograft gastric cancer model and a lymph node metastasis model were established to study the function of CXCR2 in vivo. RESULTS: CXCR2 expression is associated with the prognosis of patients with gastric cancer (P = 0.002). Of all the CXCR2 ligands, CXCL1 and CXCL5 can significantly promote migration of gastric cancer cells. Macrophages are the major sources of CXCL1 and CXCL5 in the gastric cancer microenvironment, and promote migration of gastric cancer cells through activating a CXCR2/STAT3 feed-forward loop. Gastric cancer cells secrete TNF-alpha to induce release of CXCL1 and CXCL5 from macrophages. Inhibiting CXCR2 pathway of gastric cancer cells can suppress migration and metastasis of gastric cancer in vitro and in vivo. CONCLUSIONS: Our study suggested a previously uncharacterized mechanism through which gastric cancer cells interact with macrophages to promote tumor growth and metastasis, suggesting that CXCR2 may serve as a promising therapeutic target to treat gastric cancer.
+BC8_BioRED_Task1_Doc516	6	7	C	Chemical	MESH:D002244
+BC8_BioRED_Task1_Doc516	63	68	Tumor	Disease	D009369
+BC8_BioRED_Task1_Doc516	98	123	Gastric Cancer Metastasis	Disease	MESH:D013274
+BC8_BioRED_Task1_Doc516	106	112	Cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	134	165	C-X-C chemokine receptor type 2	Gene	3579
+BC8_BioRED_Task1_Doc516	138	139	C	Chemical	MESH:D002244
+BC8_BioRED_Task1_Doc516	140	158	chemokine receptor	Gene	1234
+BC8_BioRED_Task1_Doc516	228	240	inflammation	Disease	D007249
+BC8_BioRED_Task1_Doc516	244	249	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc516	292	294	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc516	330	335	solid	Disease	MESH:D018250
+BC8_BioRED_Task1_Doc516	330	342	solid tumors	Disease	MESH:D009369
+BC8_BioRED_Task1_Doc516	336	342	tumors	Disease	D009369
+BC8_BioRED_Task1_Doc516	415	429	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	423	429	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	513	518	CXCR2	Gene	3579
+BC8_BioRED_Task1_Doc516	542	547	human	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc516	548	562	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	556	562	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	572	574	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc516	689	695	system	Disease	MESH:D034721
+BC8_BioRED_Task1_Doc516	697	699	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc516	764	768	cell	Disease	MESH:C538614
+BC8_BioRED_Task1_Doc516	840	845	CXCR2	Gene	3579
+BC8_BioRED_Task1_Doc516	874	888	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	882	888	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	900	910	metastasis	Disease	D009362
+BC8_BioRED_Task1_Doc516	924	938	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	932	938	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	951	972	lymph node metastasis	DiseaseOrPhenotypicFeature	D008207
+BC8_BioRED_Task1_Doc516	962	972	metastasis	Disease	D009362
+BC8_BioRED_Task1_Doc516	1021	1026	CXCR2	Gene	3579
+BC8_BioRED_Task1_Doc516	1045	1050	CXCR2	Gene	3579
+BC8_BioRED_Task1_Doc516	1098	1106	patients	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc516	1112	1126	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	1120	1126	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	1128	1129	P	Chemical	D000082
+BC8_BioRED_Task1_Doc516	1151	1156	CXCR2	Gene	3579
+BC8_BioRED_Task1_Doc516	1166	1171	CXCL1	Gene	14825
+BC8_BioRED_Task1_Doc516	1176	1181	CXCL5	Gene	6374
+BC8_BioRED_Task1_Doc516	1221	1235	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	1229	1235	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	1280	1285	CXCL1	Gene	14825
+BC8_BioRED_Task1_Doc516	1290	1295	CXCL5	Gene	6374
+BC8_BioRED_Task1_Doc516	1303	1317	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	1311	1317	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	1361	1375	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	1369	1375	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	1409	1414	STAT3	Gene	25125
+BC8_BioRED_Task1_Doc516	1434	1448	Gastric cancer	Disease	MESH:D013274
+BC8_BioRED_Task1_Doc516	1442	1448	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	1463	1472	TNF-alpha	Gene	24835
+BC8_BioRED_Task1_Doc516	1494	1499	CXCL1	Gene	14825
+BC8_BioRED_Task1_Doc516	1504	1509	CXCL5	Gene	6374
+BC8_BioRED_Task1_Doc516	1539	1544	CXCR2	Gene	3579
+BC8_BioRED_Task1_Doc516	1556	1570	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	1564	1570	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	1604	1614	metastasis	Disease	D009362
+BC8_BioRED_Task1_Doc516	1618	1632	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	1626	1632	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	1741	1755	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	1749	1755	cancer	Disease	D009369
+BC8_BioRED_Task1_Doc516	1799	1804	tumor	Disease	D009369
+BC8_BioRED_Task1_Doc516	1816	1826	metastasis	Disease	D009362
+BC8_BioRED_Task1_Doc516	1844	1849	CXCR2	Gene	3579
+BC8_BioRED_Task1_Doc516	1860	1862	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc516	1903	1917	gastric cancer	Disease	D013274
+BC8_BioRED_Task1_Doc516	1911	1917	cancer	Disease	D009369
+
+BC8_BioRED_Task1_Doc517|t|Glutathione-Hemin/Hematin Adduct Formation to Disintegrate Cytotoxic Oxidant Hemin/Hematin in Human K562 Cells and Red Blood Cells' Hemolysates: Impact of Glutathione on the Hemolytic Disorders and Homeostasis.
+BC8_BioRED_Task1_Doc517|a|Hemin, an oxidized form of heme, acts as potent oxidant to regulate glutathione (GSH) content in pro-erythroid K562 nucleated cells, via activation of the KEAP1/NRF2 defensive signaling pathway. Moreover, GSH, as an essential metabolite, is involved in the regulation of cell-redox homeostasis and proposed to scavenge cytotoxic free heme, which is released from hemoglobin of damaged red blood cells (RBCs) during different hemolytic disorders. In the present study, we aimed to uncover the molecular mechanism by which GSH inhibits hemin-induced cytotoxicity (HIC) by affecting hemin's structural integrity in K562 cells and in RBC hemolysates. GSH, along with other thiols (cysteine, thioglycolic acid, and mercaptoethanol) altered the spectrum of hemin, while each of them co-added with hemin in cultures of K562 cells prevented HIC and growth arrest and markedly reduced the intracellular level of hemin. In addition, GSH endogenous levels served as a barrier to HIC in K562 cells, as shown by the depletion in GSH. LC-MS/MS analysis of the in vitro reaction between hemin and GSH revealed at least five different isomers of GSH-hemin adducts, as well as hydroxy derivatives as reaction products, which are characterized by unique mass spectra (MS). The latter allowed the detection of adducts in human RBC hemolysates. Based on these findings, we proposed a molecular mechanism via which GSH prevents HIC and structurally disintegrates heme. An analogous reaction was observed in RBC hemolysates via direct inter-reaction between hematin (ferric and hydroxide heme) released from hemoglobin and GSH. Overall, GSH-hematin adducts could be considered as novel entities of the human metabolome of RBCs in hemolytic disorders.
+BC8_BioRED_Task1_Doc517	94	99	Human	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc517	100	104	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc517	155	166	Glutathione	Chemical	MESH:D005978
+BC8_BioRED_Task1_Doc517	174	193	Hemolytic Disorders	Disease	MESH:D006461
+BC8_BioRED_Task1_Doc517	238	242	heme	Chemical	MESH:D006418
+BC8_BioRED_Task1_Doc517	249	251	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc517	279	290	glutathione	Chemical	D005978
+BC8_BioRED_Task1_Doc517	322	326	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc517	372	376	NRF2	Gene	4780
+BC8_BioRED_Task1_Doc517	416	419	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc517	421	423	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc517	530	539	cytotoxic	Disease	D064420
+BC8_BioRED_Task1_Doc517	545	549	heme	Chemical	MESH:D006418
+BC8_BioRED_Task1_Doc517	574	584	hemoglobin	Gene	3039
+BC8_BioRED_Task1_Doc517	636	645	hemolytic	Disease	MESH:D006461
+BC8_BioRED_Task1_Doc517	636	655	hemolytic disorders	Disease	MESH:D006461
+BC8_BioRED_Task1_Doc517	732	735	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc517	759	771	cytotoxicity	Disease	D064420
+BC8_BioRED_Task1_Doc517	823	827	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc517	858	861	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc517	880	886	thiols	Chemical	D013438
+BC8_BioRED_Task1_Doc517	888	896	cysteine	Chemical	MESH:D003545
+BC8_BioRED_Task1_Doc517	898	915	thioglycolic acid	Chemical	MESH:C017487
+BC8_BioRED_Task1_Doc517	962	967	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc517	1002	1007	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc517	1023	1027	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc517	1044	1047	HIC	Disease	MESH:D064420
+BC8_BioRED_Task1_Doc517	1059	1065	arrest	Disease	MESH:D006323
+BC8_BioRED_Task1_Doc517	1114	1119	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc517	1134	1137	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc517	1163	1165	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc517	1179	1182	HIC	Disease	MESH:D064420
+BC8_BioRED_Task1_Doc517	1186	1190	K562	CellLine	CVCL_0004
+BC8_BioRED_Task1_Doc517	1198	1200	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc517	1227	1230	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc517	1238	1240	MS	Disease	MESH:D009103
+BC8_BioRED_Task1_Doc517	1283	1288	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc517	1293	1296	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc517	1345	1350	hemin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc517	1360	1362	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc517	1368	1370	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc517	1391	1393	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc517	1513	1518	human	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc517	1605	1608	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc517	1618	1621	HIC	Disease	MESH:D064420
+BC8_BioRED_Task1_Doc517	1653	1657	heme	Chemical	MESH:D006418
+BC8_BioRED_Task1_Doc517	1659	1661	An	OrganismTaxon	123651
+BC8_BioRED_Task1_Doc517	1682	1684	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc517	1747	1754	hematin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc517	1756	1762	ferric	Chemical	D007501
+BC8_BioRED_Task1_Doc517	1797	1807	hemoglobin	Gene	3039
+BC8_BioRED_Task1_Doc517	1812	1815	GSH	Chemical	D005978
+BC8_BioRED_Task1_Doc517	1830	1837	hematin	Chemical	MESH:D006427
+BC8_BioRED_Task1_Doc517	1866	1868	as	Chemical	MESH:D001151
+BC8_BioRED_Task1_Doc517	1891	1896	human	OrganismTaxon	9606
+BC8_BioRED_Task1_Doc517	1919	1928	hemolytic	Disease	MESH:D006461
+BC8_BioRED_Task1_Doc517	1919	1938	hemolytic disorders	Disease	MESH:D006461
+
