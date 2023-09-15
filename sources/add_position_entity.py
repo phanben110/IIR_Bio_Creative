@@ -6,7 +6,7 @@ import re
 
 dataset_path = '/Users/benphan/NCKU/IIR-Lab/BioCreative/NewData' 
 all_entity_data_path = "/Users/benphan/NCKU/IIR-Lab/BioCreative/all_entities.csv"
-input_path = "/Users/benphan/NCKU/IIR-Lab/BioCreative/Data/all_full_submit.pubtator"
+input_path = "/Users/benphan/NCKU/IIR-Lab/BioCreative/demo.pubtator"
 
 def create_pair_entities_gt(save_path = all_entity_data_path, dataset_path = dataset_path, debug = True ): 
     list_file = os.listdir(dataset_path)
@@ -107,7 +107,6 @@ def add_position_and_entity(save_path = all_entity_data_path, dataset_path = dat
                     end_index = start_index + len(keyword) 
                     if text[end_index] == " " or text[end_index] == "," or text[end_index] == "." or text[end_index] == "!": 
                       result_list.append([document_id, str(start_index), str(end_index), item[0], item[1], item[2]])
-                      count += 1 
                     start_index = text.find(keyword, end_index)
     
         sorted_result = sorted(result_list, key=lambda x: (int(x[1]), int(x[2])))
@@ -118,15 +117,41 @@ def add_position_and_entity(save_path = all_entity_data_path, dataset_path = dat
     
         unique_results = []
         seen_indices = set()
-    
+
+
+        # Define a list of stop words
+        stop_words = ["a", "an", "and", "as", "at", "but", "by", "for", "if", "in", "is", "it", "of", "on", "or", "the", "to", "with"]
+        
+        # Initialize unique_results and seen_indices
+        unique_results = []
+        seen_indices = set()
+        
+        # Iterate through sorted_result
         for item in sorted_result:
             start_index = int(item[1])
             end_index = int(item[2])
-            
-            # Kiểm tra nếu start_index và end_index chưa xuất hiện trong tập hợp seen_indices
-            if (start_index, end_index) not in seen_indices:
+            text = item[3]  # Assuming item[3] contains the text
+        
+            # Check if text is not a stop word and (start_index, end_index) is not in seen_indices
+            if text.lower() not in stop_words and (start_index, end_index) not in seen_indices:
                 unique_results.append(item)
                 seen_indices.add((start_index, end_index))
+                count += 1 
+        
+        # unique_results now contains items with non-stop words and unique indices
+
+
+
+       # for item in sorted_result:
+       #     start_index = int(item[1])
+       #     end_index = int(item[2])
+       #     
+       #     # Kiểm tra nếu start_index và end_index chưa xuất hiện trong tập hợp seen_indices
+       #     if (start_index, end_index) not in seen_indices:
+       #     #if True:
+       #         unique_results.append(item)
+       #         seen_indices.add((start_index, end_index))
+       #         count += 1 
     
         # print(unique_results)
     
