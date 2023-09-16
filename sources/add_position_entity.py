@@ -4,9 +4,10 @@ nltk.download('punkt')
 import os
 import re
 
-dataset_path = '/Users/benphan/NCKU/IIR-Lab/BioCreative/NewData' 
-all_entity_data_path = "/Users/benphan/NCKU/IIR-Lab/BioCreative/all_entities.csv"
-input_path = "/Users/benphan/NCKU/IIR-Lab/BioCreative/demo.pubtator"
+dataset_path = './../NewData' 
+all_entity_data_path = "./../all_entities.csv"
+#input_path = "./../final_submit/Entities-Identifiers-Run1.pubtator"
+input_path = "./../demo.pubtator"
 
 def create_pair_entities_gt(save_path = all_entity_data_path, dataset_path = dataset_path, debug = True ): 
     list_file = os.listdir(dataset_path)
@@ -66,7 +67,6 @@ def add_position_and_entity(save_path = all_entity_data_path, dataset_path = dat
         elif i == len(lines) - 1:
             raw_data.append(fields) 
             documents.append(raw_data)
-            print(fields)
         elif '|t|' in fields[0]:
             position = fields[0].find('|t|')
             id_document = fields[0][:position]
