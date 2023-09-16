@@ -85,6 +85,7 @@ def add_position_and_entity(save_path = all_entity_data_path, dataset_path = dat
         begin = True
         text = ""
         result_list = []
+
         for fields in document: 
             if '|t|' in fields[0]:
               begin = False
@@ -94,7 +95,9 @@ def add_position_and_entity(save_path = all_entity_data_path, dataset_path = dat
             elif '|a|' in fields[0]: 
               position = fields[0].index('|a|')
               text = str(text + " " + fields[0][position + 3:])
-    
+            elif len(fields) == 6:
+              result_list.append(fields)  
+              documents[i] = document[:2]
     
         for item in unique_data:
             keyword = item[0]
