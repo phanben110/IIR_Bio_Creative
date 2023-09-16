@@ -1,0 +1,176 @@
+<START> hold this <EOS> <START> halt das <EOS>
+<START> try again <EOS> <START> versuch es noch einmal <EOS>
+<START> go away <EOS> <START> mach dich vom acker <EOS>
+<START> go away <EOS> <START> pack dich <EOS>
+<START> its me <EOS> <START> ich bins <EOS>
+<START> fire burns <EOS> <START> feuer brennt <EOS>
+<START> wait up <EOS> <START> warte mal <EOS>
+<START> leave us <EOS> <START> gehen sie weg <EOS>
+<START> take care <EOS> <START> pass auf dich auf <EOS>
+<START> cheers <EOS> <START> zum wohl <EOS>
+<START> stand up <EOS> <START> stehe auf <EOS>
+<START> i fell <EOS> <START> ich bin gesturzt <EOS>
+<START> get away <EOS> <START> mach die sause <EOS>
+<START> hold this <EOS> <START> halten sie das <EOS>
+<START> im happy <EOS> <START> ich bin glucklich <EOS>
+<START> he got a d <EOS> <START> er bekam ein ausreichend <EOS>
+<START> go away <EOS> <START> geh weg <EOS>
+<START> tell tom <EOS> <START> erzahl es tom <EOS>
+<START> jump down <EOS> <START> spring runter <EOS>
+<START> is it new <EOS> <START> ist es neu <EOS>
+<START> let me go <EOS> <START> lassen sie mich gehen <EOS>
+<START> come on in <EOS> <START> komm herein <EOS>
+<START> wow <EOS> <START> donnerwetter <EOS>
+<START> put it on <EOS> <START> zieh sie dir an <EOS>
+<START> answer tom <EOS> <START> antwortet tom <EOS>
+<START> go away <EOS> <START> pack dich <EOS>
+<START> im sad <EOS> <START> ich bin traurig <EOS>
+<START> i am ready <EOS> <START> ich bin fertig <EOS>
+<START> hes cruel <EOS> <START> er ist grausam <EOS>
+<START> who spoke <EOS> <START> wer sprach <EOS>
+<START> im right <EOS> <START> ich habe recht <EOS>
+<START> lets see <EOS> <START> schauen wir mal <EOS>
+<START> fill it up <EOS> <START> volltanken <EOS>
+<START> of course <EOS> <START> selbstverstandlich <EOS>
+<START> go away <EOS> <START> scher dich weg <EOS>
+<START> tom knits <EOS> <START> tom strickt <EOS>
+<START> its me <EOS> <START> ich bins <EOS>
+<START> tom dozed <EOS> <START> tom doste <EOS>
+<START> its cold <EOS> <START> es ist kalt <EOS>
+<START> lets go <EOS> <START> lass uns losgehen <EOS>
+<START> im game <EOS> <START> ich mache mit <EOS>
+<START> can i help <EOS> <START> kann ich helfen <EOS>
+<START> go away <EOS> <START> scher dich weg <EOS>
+<START> who swam <EOS> <START> wer ist geschwommen <EOS>
+<START> take mine <EOS> <START> nehmen sie meins <EOS>
+<START> thank you <EOS> <START> danke <EOS>
+<START> go away <EOS> <START> geh weg <EOS>
+<START> how cute <EOS> <START> wie su <EOS>
+<START> come back <EOS> <START> komm wieder <EOS>
+<START> keep them <EOS> <START> behalte sie <EOS>
+<START> lets eat <EOS> <START> essen wir etwas <EOS>
+<START> go away <EOS> <START> schwirr ab <EOS>
+<START> come early <EOS> <START> komm fruhzeitig <EOS>
+<START> go away <EOS> <START> mach ne fliege <EOS>
+<START> she came <EOS> <START> sie kam <EOS>
+<START> kiss tom <EOS> <START> kusse tom <EOS>
+<START> i am a man <EOS> <START> ich bin ein mensch <EOS>
+<START> you stink <EOS> <START> du stinkst <EOS>
+<START> am i fat <EOS> <START> bin ich dick <EOS>
+<START> tom knew <EOS> <START> tom hat es gewusst <EOS>
+<START> i laughed <EOS> <START> ich lachte <EOS>
+<START> tom waved <EOS> <START> tom winkte <EOS>
+<START> cuff him <EOS> <START> legen sie ihm handschellen an <EOS>
+<START> he is mean <EOS> <START> er ist gemein <EOS>
+<START> tom ran <EOS> <START> tom ist gerannt <EOS>
+<START> am i wrong <EOS> <START> irre ich mich <EOS>
+<START> how clever <EOS> <START> wie klug <EOS>
+<START> tom tried <EOS> <START> tom hat es versucht <EOS>
+<START> tom wept <EOS> <START> tom weinte <EOS>
+<START> be serious <EOS> <START> bleib mal auf dem boden der tatsachen <EOS>
+<START> i found it <EOS> <START> ich habe es gefunden <EOS>
+<START> be careful <EOS> <START> sieh dich vor <EOS>
+<START> tom moved <EOS> <START> tom bewegte sich <EOS>
+<START> dont cry <EOS> <START> weint nicht <EOS>
+<START> beat it <EOS> <START> hau ab <EOS>
+<START> im going <EOS> <START> ich gehe jetzt <EOS>
+<START> come again <EOS> <START> kommen sie wieder <EOS>
+<START> stay calm <EOS> <START> bleib ruhig <EOS>
+<START> go away <EOS> <START> mach die sause <EOS>
+<START> get lost <EOS> <START> pack dich <EOS>
+<START> come soon <EOS> <START> kommen sie bald <EOS>
+<START> look back <EOS> <START> schau nach hinten <EOS>
+<START> its hard <EOS> <START> das ist hart <EOS>
+<START> we agree <EOS> <START> wir sind einverstanden <EOS>
+<START> hop in <EOS> <START> mach mit <EOS>
+<START> go away <EOS> <START> mach ne fliege <EOS>
+<START> try it on <EOS> <START> probier es an <EOS>
+<START> try again <EOS> <START> versucht es noch mal <EOS>
+<START> catch tom <EOS> <START> fang tom <EOS>
+<START> come in <EOS> <START> herein <EOS>
+<START> bring wine <EOS> <START> bring wein <EOS>
+<START> put it on <EOS> <START> setz ihn dir auf <EOS>
+<START> hit tom <EOS> <START> schlagen sie tom <EOS>
+<START> save tom <EOS> <START> rettet tom <EOS>
+<START> i mean it <EOS> <START> ich meine es ernst <EOS>
+<START> i promise <EOS> <START> ich verspreche es <EOS>
+<START> go away <EOS> <START> zieh leine <EOS>
+<START> be brief <EOS> <START> fassen sie sich kurz <EOS>
+<START> he is poor <EOS> <START> er ist arm <EOS>
+<START> i am ready <EOS> <START> ich bin soweit <EOS>
+<START> check that <EOS> <START> prufen sie das nach <EOS>
+<START> get lost <EOS> <START> verzieh dich <EOS>
+<START> tom knew <EOS> <START> tom wusste bescheid <EOS>
+<START> im ugly <EOS> <START> ich bin hasslich <EOS>
+<START> how deep <EOS> <START> wie tief <EOS>
+<START> i can go <EOS> <START> ich kann gehen <EOS>
+<START> whos she <EOS> <START> wer ist sie <EOS>
+<START> get away <EOS> <START> verzieh dich <EOS>
+<START> freeze <EOS> <START> keine bewegung <EOS>
+<START> i did it <EOS> <START> ich habs gemacht <EOS>
+<START> i am fat <EOS> <START> ich bin dick <EOS>
+<START> good night <EOS> <START> gute nacht <EOS>
+<START> i fell <EOS> <START> ich fiel hin <EOS>
+<START> well go <EOS> <START> wir werden gehen <EOS>
+<START> tom swam <EOS> <START> tom schwamm <EOS>
+<START> be careful <EOS> <START> gib acht <EOS>
+<START> lets try <EOS> <START> lass es uns versuchen <EOS>
+<START> im here <EOS> <START> ich bin hier <EOS>
+<START> stay thin <EOS> <START> bleib dunn <EOS>
+<START> let me be <EOS> <START> lass mich in ruhe <EOS>
+<START> get lost <EOS> <START> verschwinde <EOS>
+<START> hurry home <EOS> <START> geh schnell nach hause <EOS>
+<START> hug tom <EOS> <START> umarmt tom <EOS>
+<START> marry me <EOS> <START> heirate mich <EOS>
+<START> sit still <EOS> <START> sitzen sie still <EOS>
+<START> forget it <EOS> <START> vergiss es <EOS>
+<START> they lost <EOS> <START> sie verloren <EOS>
+<START> keep them <EOS> <START> behaltet sie <EOS>
+<START> i am a man <EOS> <START> ich bin ein mann <EOS>
+<START> try again <EOS> <START> versuchen sie es noch einmal <EOS>
+<START> i am tall <EOS> <START> ich bin gro <EOS>
+<START> who ran <EOS> <START> wer rannte <EOS>
+<START> hug me <EOS> <START> umarme mich <EOS>
+<START> im bored <EOS> <START> ich bin gelangweilt <EOS>
+<START> keep away <EOS> <START> bleibt weg <EOS>
+<START> stay down <EOS> <START> bleib unten <EOS>
+<START> lock it <EOS> <START> schlie es ab <EOS>
+<START> he got a d <EOS> <START> er bekam eine vier <EOS>
+<START> i met him <EOS> <START> ich habe ihn getroffen <EOS>
+<START> lets try <EOS> <START> lasst es uns versuchen <EOS>
+<START> wake up <EOS> <START> wach auf <EOS>
+<START> put it on <EOS> <START> setz ihn auf <EOS>
+<START> start now <EOS> <START> beginnen sie jetzt <EOS>
+<START> he is a dj <EOS> <START> er ist dj <EOS>
+<START> i mean it <EOS> <START> es ist ernst gemeint von mir <EOS>
+<START> i am fine <EOS> <START> mir geht es gut <EOS>
+<START> tom paid <EOS> <START> tom hat gezahlt <EOS>
+<START> im sorry <EOS> <START> es tut mir leid <EOS>
+<START> tom spoke <EOS> <START> tom sprach <EOS>
+<START> be a man <EOS> <START> sei ein mann <EOS>
+<START> be fair <EOS> <START> sei fair <EOS>
+<START> got it <EOS> <START> einverstanden <EOS>
+<START> come on <EOS> <START> komm <EOS>
+<START> calm down <EOS> <START> beruhigen sie sich <EOS>
+<START> hurry up <EOS> <START> mach hin <EOS>
+<START> what for <EOS> <START> wozu <EOS>
+<START> who died <EOS> <START> wer ist gestorben <EOS>
+<START> duty calls <EOS> <START> die pflicht ruft <EOS>
+<START> its late <EOS> <START> es ist spat <EOS>
+<START> loosen up <EOS> <START> mach dich locker <EOS>
+<START> tom came <EOS> <START> tom kam <EOS>
+<START> i admit it <EOS> <START> ich geb es zu <EOS>
+<START> chill out <EOS> <START> entspann dich <EOS>
+<START> back off <EOS> <START> komm nicht naher <EOS>
+<START> nice shot <EOS> <START> guter schuss <EOS>
+<START> tom lies <EOS> <START> tom lugt <EOS>
+<START> they fell <EOS> <START> sie sturzten <EOS>
+<START> did tom go <EOS> <START> ist tom gegangen <EOS>
+<START> can i eat <EOS> <START> kann ich essen <EOS>
+<START> get away <EOS> <START> verdufte <EOS>
+<START> he ran <EOS> <START> er rannte <EOS>
+<START> im okay <EOS> <START> es geht mir gut <EOS>
+<START> of course <EOS> <START> na klar <EOS>
+<START> kiss tom <EOS> <START> kussen sie tom <EOS>
+<START> tell tom <EOS> <START> erzahlen sie tom davon <EOS>
+<START> wait up <EOS> <START> wartet mal <EOS>

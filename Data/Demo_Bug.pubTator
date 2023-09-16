@@ -1,0 +1,163 @@
+28368423|t|Myc enhances B-cell receptor signaling in precancerous B cells and confers resistance to Btk inhibition.
+28368423|a|Dysregulation of the oncogenic transcription factor MYC induces B-cell transformation and is a driver for B-cell non-Hodgkin lymphoma (B-NHL). MYC overexpression in B-NHL is associated with more aggressive phenotypes and poor prognosis. Although genomic studies suggest a link between MYC overexpression and B-cell receptor (BCR) signaling molecules in B-NHL, signaling pathways essential to Myc-mediated B-cell transformation have not been fully elucidated. We utilized intracellular phospho-flow cytometry to investigate the relationship between Myc and BCR signaling in pre-malignant B cells. Utilizing the Eu-myc mouse model, where Myc is overexpressed specifically in B cells, both basal and stimulated BCR signaling were increased in precancerous B lymphocytes from Eu-myc mice compared with wild-type littermates. B cells overexpressing Myc displayed constitutively higher levels of activated CD79a, Btk, Plcg2 and Erk1/2. Notably, Myc-overexpressing B cells maintained elevated BCR signaling despite treatment with ibrutinib, a Bruton's tyrosine kinase inhibitor. Furthermore, PI3K/Akt pathway signaling was also increased in Eu-myc B cells, and this increase was partially suppressed with ibrutinib. In addition, experiments with Btk-null B cells revealed off-target effects of ibrutinib on BCR signaling. Our data show that in pre-malignant B cells, Myc overexpression is sufficient to activate BCR and PI3K/Akt signaling pathways and further enhances signaling following BCR ligation. Therefore, our results indicate that precancerous B cells have already acquired enhanced survival and growth capabilities before transformation, and that elevated MYC levels confer resistance to pharmacologic inhibitors of BCR signaling, which has significant implications for B-NHL treatment.
+28368423	0	3	Myc	GeneOrGeneProduct	17869
+28368423	13	28	B-cell receptor	GeneOrGeneProduct	16019
+28368423	42	54	precancerous	DiseaseOrPhenotypicFeature	D011230
+28368423	89	92	Btk	GeneOrGeneProduct	12229
+28368423	157	160	MYC	GeneOrGeneProduct	17869
+28368423	211	238	B-cell non-Hodgkin lymphoma	DiseaseOrPhenotypicFeature	D016393
+28368423	240	245	B-NHL	DiseaseOrPhenotypicFeature	D016393
+28368423	248	251	MYC	GeneOrGeneProduct	17869
+28368423	270	275	B-NHL	DiseaseOrPhenotypicFeature	D016393
+28368423	390	393	MYC	GeneOrGeneProduct	17869
+28368423	413	428	B-cell receptor	GeneOrGeneProduct	16019
+28368423	430	433	BCR	GeneOrGeneProduct	16019
+28368423	458	463	B-NHL	DiseaseOrPhenotypicFeature	D016393
+28368423	497	500	Myc	GeneOrGeneProduct	17869
+28368423	653	656	Myc	GeneOrGeneProduct	17869
+28368423	661	664	BCR	GeneOrGeneProduct	16019
+28368423	718	721	myc	GeneOrGeneProduct	17869
+28368423	722	727	mouse	OrganismTaxon	10090
+28368423	741	744	Myc	GeneOrGeneProduct	17869
+28368423	813	816	BCR	GeneOrGeneProduct	16019
+28368423	845	857	precancerous	DiseaseOrPhenotypicFeature	D011230
+28368423	880	883	myc	GeneOrGeneProduct	17869
+28368423	884	888	mice	OrganismTaxon	10090
+28368423	949	952	Myc	GeneOrGeneProduct	17869
+28368423	1005	1010	CD79a	GeneOrGeneProduct	12518
+28368423	1012	1015	Btk	GeneOrGeneProduct	12229
+28368423	1017	1022	Plcg2	GeneOrGeneProduct	234779
+28368423	1027	1033	Erk1/2	GeneOrGeneProduct	26413,26417
+28368423	1044	1047	Myc	GeneOrGeneProduct	17869
+28368423	1091	1094	BCR	GeneOrGeneProduct	16019
+28368423	1128	1137	ibrutinib	ChemicalEntity	C551803
+28368423	1141	1165	Bruton's tyrosine kinase	GeneOrGeneProduct	695
+28368423	1190	1194	PI3K	GeneOrGeneProduct	18708
+28368423	1195	1198	Akt	GeneOrGeneProduct	11651
+28368423	1242	1245	myc	GeneOrGeneProduct	17869
+28368423	1303	1312	ibrutinib	ChemicalEntity	C551803
+28368423	1344	1347	Btk	GeneOrGeneProduct	12229
+28368423	1392	1401	ibrutinib	ChemicalEntity	C551803
+28368423	1405	1408	BCR	GeneOrGeneProduct	16019
+28368423	1465	1468	Myc	GeneOrGeneProduct	17869
+28368423	1510	1513	BCR	GeneOrGeneProduct	16019
+28368423	1518	1522	PI3K	GeneOrGeneProduct	18708
+28368423	1523	1526	Akt	GeneOrGeneProduct	11651
+28368423	1587	1590	BCR	GeneOrGeneProduct	16019
+28368423	1638	1650	precancerous	DiseaseOrPhenotypicFeature	D011230
+28368423	1764	1767	MYC	GeneOrGeneProduct	17869
+28368423	1824	1827	BCR	GeneOrGeneProduct	16019
+28368423	1878	1883	B-NHL	DiseaseOrPhenotypicFeature	D016393
+28368423	Association	D016393	16019	Novel
+28368423	Negative_Correlation	11651	C551803	No
+28368423	Positive_Correlation	11651	17869	Novel
+28368423	Association	18708	11651	No
+28368423	Negative_Correlation	18708	C551803	No
+28368423	Positive_Correlation	18708	17869	Novel
+28368423	Negative_Correlation	C551803	695	No
+28368423	Association	C551803	17869	Novel
+28368423	Association	16019	C551803	No
+28368423	Association	16019	D011230	Novel
+28368423	Association	17869	D016393	No
+28368423	Positive_Correlation	17869	26417	Novel
+28368423	Positive_Correlation	17869	26413	Novel
+28368423	Positive_Correlation	17869	234779	Novel
+28368423	Positive_Correlation	17869	12518	Novel
+28368423	Positive_Correlation	17869	12229	Novel
+28368423	Association	17869	D011230	Novel
+28368423	Positive_Correlation	17869	16019	Novel
+
+28416580|t|A TSPO ligand attenuates brain injury after intracerebral hemorrhage.
+28416580|a|Intracerebral hemorrhage (ICH) is a devastating disease without effective treatment. After ICH, the immediate infiltration of leukocytes and activation of microglia are accompanied by a rapid up-regulation of the 18-kDa translocator protein (TSPO). TSPO ligands have shown anti-inflammatory and neuroprotective properties in models of CNS injury. In this study, we determined the impact of a TSPO ligand, etifoxine, on brain injury and inflammation in 2 mouse models of ICH. TSPO was up-regulated in Iba1(+) cells from brains of patients with ICH and in CD11b(+)CD45(int) cells from mice subjected to collagenase-induced ICH. Etifoxine significantly reduced neurodeficits and perihematomal brain edema after ICH induction by injection of either autologous blood or collagenase. In collagenase-induced ICH mice, the protection of etifoxine was associated with reduced leukocyte infiltration into the brain and microglial production of IL-6 and TNF-a. Etifoxine improved blood-brain barrier integrity and diminished cell death. Notably, the protective effect of etifoxine was abolished in mice depleted of microglia by using a colony-stimulating factor 1 receptor inhibitor. These results indicate that the TSPO ligand etifoxine attenuates brain injury and inflammation after ICH. TSPO may be a viable therapeutic target that requires further investigations in ICH.-Li, M., Ren, H., Sheth, K. N., Shi, F.-D., Liu, Q. A TSPO ligand attenuates brain injury after intracerebral hemorrhage.
+28416580	2	6	TSPO	GeneOrGeneProduct	12257
+28416580	25	37	brain injury	DiseaseOrPhenotypicFeature	D001927
+28416580	44	68	intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+28416580	70	94	Intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+28416580	96	99	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	161	164	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	290	310	translocator protein	GeneOrGeneProduct	12257
+28416580	312	316	TSPO	GeneOrGeneProduct	12257
+28416580	319	323	TSPO	GeneOrGeneProduct	12257
+28416580	348	360	inflammatory	DiseaseOrPhenotypicFeature	D007249
+28416580	405	415	CNS injury	DiseaseOrPhenotypicFeature	D002493
+28416580	462	466	TSPO	GeneOrGeneProduct	12257
+28416580	475	484	etifoxine	ChemicalEntity	C002125
+28416580	489	501	brain injury	DiseaseOrPhenotypicFeature	D001927
+28416580	506	518	inflammation	DiseaseOrPhenotypicFeature	D007249
+28416580	524	529	mouse	OrganismTaxon	10090
+28416580	540	543	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	545	549	TSPO	GeneOrGeneProduct	706
+28416580	570	574	Iba1	GeneOrGeneProduct	199
+28416580	599	607	patients	OrganismTaxon	9606
+28416580	613	616	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	624	629	CD11b	GeneOrGeneProduct	16409
+28416580	632	636	CD45	GeneOrGeneProduct	19264
+28416580	653	657	mice	OrganismTaxon	10090
+28416580	671	682	collagenase	ChemicalEntity	D017364
+28416580	691	694	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	696	705	Etifoxine	ChemicalEntity	C002125
+28416580	728	741	neurodeficits	DiseaseOrPhenotypicFeature	D001927
+28416580	760	771	brain edema	DiseaseOrPhenotypicFeature	D001929
+28416580	778	781	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	835	846	collagenase	ChemicalEntity	D017364
+28416580	851	862	collagenase	ChemicalEntity	D017364
+28416580	871	874	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	875	879	mice	OrganismTaxon	10090
+28416580	899	908	etifoxine	ChemicalEntity	C002125
+28416580	1004	1008	IL-6	GeneOrGeneProduct	16193
+28416580	1013	1018	TNF-a	GeneOrGeneProduct	21926
+28416580	1020	1029	Etifoxine	ChemicalEntity	C002125
+28416580	1130	1139	etifoxine	ChemicalEntity	C002125
+28416580	1157	1161	mice	OrganismTaxon	10090
+28416580	1195	1231	colony-stimulating factor 1 receptor	GeneOrGeneProduct	12978
+28416580	1275	1279	TSPO	GeneOrGeneProduct	12257
+28416580	1287	1296	etifoxine	ChemicalEntity	C002125
+28416580	1308	1320	brain injury	DiseaseOrPhenotypicFeature	D001927
+28416580	1325	1337	inflammation	DiseaseOrPhenotypicFeature	D007249
+28416580	1344	1347	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	1349	1353	TSPO	GeneOrGeneProduct	12257
+28416580	1429	1432	ICH	DiseaseOrPhenotypicFeature	D002543
+28416580	1487	1491	TSPO	GeneOrGeneProduct	12257
+28416580	1510	1522	brain injury	DiseaseOrPhenotypicFeature	D001927
+28416580	1529	1553	intracerebral hemorrhage	DiseaseOrPhenotypicFeature	D002543
+28416580	Positive_Correlation	D017364	D002543	No
+28416580	Association	D002543	199	No
+28416580	Association	706	D002543	Novel
+28416580	Positive_Correlation	706	199	Novel
+28416580	Association	12257	D002493	No
+28416580	Association	12257	D002543	Novel
+28416580	Association	12257	D007249	No
+28416580	Association	12257	D001927	No
+28416580	Association	12257	C002125	No
+28416580	Association	C002125	12978	Novel
+28416580	Positive_Correlation	C002125	21926	Novel
+28416580	Positive_Correlation	C002125	16193	Novel
+28416580	Negative_Correlation	C002125	D001929	Novel
+28416580	Negative_Correlation	C002125	D002543	Novel
+28416580	Negative_Correlation	C002125	D007249	Novel
+28416580	Negative_Correlation	C002125	D001927	Novel
+
+28687665|t|Mutation of the a-tubulin Tuba1a leads to straighter microtubules and perturbs neuronal migration.
+28687665|a|Brain development involves extensive migration of neurons. Microtubules (MTs) are key cellular effectors of neuronal displacement that are assembled from a/b-tubulin heterodimers. Mutation of the a-tubulin isotype TUBA1A is associated with cortical malformations in humans. In this study, we provide detailed in vivo and in vitro analyses of Tuba1a mutants. In mice carrying a Tuba1a missense mutation (S140G), neurons accumulate, and glial cells are dispersed along the rostral migratory stream in postnatal and adult brains. Live imaging of Tuba1a-mutant neurons revealed slowed migration and increased neuronal branching, which correlated with directionality alterations and perturbed nucleus-centrosome (N-C) coupling. Tuba1a mutation led to increased straightness of newly polymerized MTs, and structural modeling data suggest a conformational change in the a/b-tubulin heterodimer. We show that Tuba8, another a-tubulin isotype previously associated with cortical malformations, has altered function compared with Tuba1a. Our work shows that Tuba1a plays an essential, noncompensated role in neuronal saltatory migration in vivo and highlights the importance of MT flexibility in N-C coupling and neuronal-branching regulation during neuronal migration.
+28687665	16	25	a-tubulin	GeneOrGeneProduct	22142
+28687665	26	32	Tuba1a	GeneOrGeneProduct	22142
+28687665	253	264	a/b-tubulin	GeneOrGeneProduct	22142,22152,53857
+28687665	295	304	a-tubulin	GeneOrGeneProduct	22142
+28687665	313	319	TUBA1A	GeneOrGeneProduct	7846
+28687665	339	361	cortical malformations	DiseaseOrPhenotypicFeature	D054220
+28687665	365	371	humans	OrganismTaxon	9606
+28687665	441	447	Tuba1a	GeneOrGeneProduct	22142
+28687665	460	464	mice	OrganismTaxon	10090
+28687665	476	482	Tuba1a	GeneOrGeneProduct	22142
+28687665	502	507	S140G	SequenceVariant	p|SUB|S|140|G
+28687665	642	648	Tuba1a	GeneOrGeneProduct	22142
+28687665	822	828	Tuba1a	GeneOrGeneProduct	22142
+28687665	962	973	a/b-tubulin	GeneOrGeneProduct	22142,22152,53857
+28687665	1000	1005	Tuba8	GeneOrGeneProduct	53857
+28687665	1015	1024	a-tubulin	GeneOrGeneProduct	22142
+28687665	1060	1082	cortical malformations	DiseaseOrPhenotypicFeature	D054220
+28687665	1119	1125	Tuba1a	GeneOrGeneProduct	22142
+28687665	1147	1153	Tuba1a	GeneOrGeneProduct	22142
+28687665	Association	7846	D054220	No
+28687665	Association	22142	D054220	No
+28687665	Association	53857	D054220	No
