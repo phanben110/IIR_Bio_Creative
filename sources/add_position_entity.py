@@ -6,7 +6,7 @@ import re
 
 dataset_path = './../NewData' 
 all_entity_data_path = "./../all_entities.csv"
-input_path = "./../final_submit/Entities-Identifiers-Run1.pubtator"
+input_path = "./../final_submit/Entities-Identifiers-Run1_v2.pubtator"
 #input_path = "./../demo.pubtator"
 
 def create_pair_entities_gt(save_path = all_entity_data_path, dataset_path = dataset_path, debug = True ): 
