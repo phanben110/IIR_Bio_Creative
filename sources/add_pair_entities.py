@@ -6,9 +6,9 @@ nltk.download('punkt')
 import os
 from tqdm import tqdm
 
-dataset_path = '/Users/benphan/NCKU/IIR-Lab/BioCreative/NewData'
-all_distinct_data_path = "/Users/benphan/NCKU/IIR-Lab/BioCreative/all_distinct_pair_entities.csv"
-input_path = "/Users/benphan/NCKU/IIR-Lab/IIR_Bio_Creative/Data/evaluate_with_entities_identifier_2_no_none_novel_add_groundtruth.pubtator" 
+dataset_path = './../Dataset_Relation'
+all_distinct_data_path = "./../all_distinct_pair_entities.csv"
+input_path = "./../Add_Relation/Replace_Relation_Entities-Identifiers_Relation-Run1.pubtator"
 
 def create_pair_entities_gt(save_path = all_distinct_data_path, dataset_path = dataset_path, debug = True): 
     list_file = os.listdir(dataset_path)
