@@ -4,52 +4,39 @@ nltk.download('punkt')
 import os
 import re
 
-#dataset_path = './../NewData' 
-dataset_path = './../tmp_data' 
-all_entity_data_path = "./../all_entities.csv"
-input_path = "./../final_submit/Entities-Identifiers-Run1_v3.pubtator"
+all_entity_data_path = "./../Dataset_20_09_23/all_entities.csv"
+input_path = "./../Dataset_20_09_23/Entities-Identifiers-Run1.pubtator"
+# input_path = "./../Dataset_20_09_23/Entities-Identifiers-Run2.pubtator"
 #input_path = "./../demo.pubtator"
 
-def create_pair_entities_gt(save_path = all_entity_data_path, dataset_path = dataset_path, debug = True ): 
-    list_file = os.listdir(dataset_path)
-    preprocess_datas = [] 
-    for file_path in list_file:
-        file_path = os.path.join(dataset_path, file_path)  
-    
-        # Step 1: Open the file
-        rawDatas = [] 
-        text =  ""
-        with open(file_path, 'r') as file:
-            preprocess = []
-            begin = True
-            # Step 2: Read and process the contents
-            for line in file:
-                fields = line.strip().split('\t')
-                if len(fields) == 6:
-                    preprocess_datas.append(fields[3:]) 
-                #  pri
-                    # preprocess.append(fields) 
-    unique_data = []
-    
-    for sublist in preprocess_datas:
-        # If the sublist is not in unique_ben, add it
-        if sublist not in unique_data:
-            unique_data.append(sublist)
-    
-    with open(all_entity_data_path, 'w') as file:
-        for data in unique_data:
-            if True:
-                line = '\t'.join(data) + '\n'
-                file.write(line)
-    if debug:
-        print(f"The number of all pair entities is {len(preprocess_datas)}")
-        print(f"The number of unique pair entities is {len(unique_data)}")
-        print(f'Data all distinct pair entities has been successfully saved to {all_entity_data_path}') 
+def create_pair_entities_gt( all_entity_data_path, debug = True ): 
+    unique_data = [] 
+    with open(all_entity_data_path, 'r') as file:
+        for line in file:
+            fields = line.strip().split('\t')
+            if fields[1] == 'Disease':
+                fields[1] = 'DiseaseOrPhenotypicFeature'
+            elif fields[1] == 'Chemical':
+                fields[1] = 'ChemicalEntity'
+            elif fields[1] == 'Gene':
+                fields[1] = 'GeneOrGeneProduct'
+            unique_data.append(fields) 
+    print(f"The number of unique pair entities is {len(unique_data)}") 
+    print(unique_data[0:100])    
     return unique_data
 
-def add_position_and_entity(save_path = all_entity_data_path, dataset_path = dataset_path, input_path = input_path): 
+def add_position_and_entity(all_entity_data_path, input_path = input_path): 
     # Step 1: Open the file
-    unique_data = create_pair_entities_gt(save_path = all_entity_data_path, dataset_path = dataset_path)
+
+    stop_words = []
+    # Read the file and add words to the stop_words list
+    with open("stop_words.csv", 'r') as file:
+        for line in file:
+            word = line.strip()  # Remove leading/trailing whitespace
+            if word and not word.startswith("'"):  # Ignore empty lines and words starting with "'"
+                stop_words.append(word)
+
+    unique_data = create_pair_entities_gt(all_entity_data_path)
     documents = []
     entities = []
     pair_entities = []
@@ -124,7 +111,9 @@ def add_position_and_entity(save_path = all_entity_data_path, dataset_path = dat
 
 
         # Define a list of stop words
-        stop_words = ["a", "an", "and", "as", "at", "but", "by", "for", "if", "in", "is", "it", "of", "on", "or", "the", "to", "with"]
+        #stop_words = ["a", "an", "and", "as", "at", "but", "by", "for", "if", "in", "is", "it", "of", "on", "or", "the", "to", "with","has","was","have"] 
+        #file_path = "stop_words.csv"
+
         
         # Initialize unique_results and seen_indices
         unique_results = []
@@ -182,5 +171,5 @@ def add_position_and_entity(save_path = all_entity_data_path, dataset_path = dat
     print(f"The output was save in path: {os.path.dirname(input_path)}/Full_entity_{os.path.basename(input_path)}")
 
 
-add_position_and_entity(save_path = all_entity_data_path, dataset_path = dataset_path, input_path = input_path)
+add_position_and_entity(all_entity_data_path, input_path = input_path)
         
