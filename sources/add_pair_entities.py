@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 dataset_path = './../Dataset_Relation'
 all_distinct_data_path = "./../all_distinct_pair_entities.csv"
-input_path = "./../Add_Relation/Replace_Relation_Entities-Identifiers_Relation-Run1.pubtator"
+input_path = "./../Add_Relation/Replace_Relation_Entities-Identifiers_Relation-Run3.pubtator"
 
 def create_pair_entities_gt(save_path = all_distinct_data_path, dataset_path = dataset_path, debug = True): 
     list_file = os.listdir(dataset_path)
