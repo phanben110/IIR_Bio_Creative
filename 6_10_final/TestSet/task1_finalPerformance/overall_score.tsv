@@ -1,0 +1,8 @@
+Config.	Entity Pair(P/R/F)			Entity Pair+Relation Type(P/R/F)			Entity Pair+Novelty(P/R/F)			Entity Pair+Relation Type+Novelty(P/R/F)		
+Updated_Subtask1_Run1	76.70%	68.99%	72.64%	55.96%	50.46%	53.06%	59.83%	54.31%	56.94%	43.86%	39.88%	41.78%
+Updated_Subtask1_Run2	75.99%	70.68%	73.24%	57.11%	53.33%	55.16%	59.21%	55.55%	57.32%	44.86%	42.20%	43.49%
+Updated_Subtask1_Run3	70.83%	74.96%	72.84%	51.64%	54.79%	53.17%	54.41%	58.03%	56.16%	39.46%	42.16%	40.76%
+Updated_Subtask1_Run4	69.16%	78.33%	73.46%	51.98%	59.09%	55.31%	52.97%	60.42%	56.45%	39.86%	45.59%	42.53%
+												
+Median of participants runs	77.93%	69.65%	73.56%	51.64%	54.79%	53.17%	52.97%	60.42%	56.45%	41.61%	39.88%	40.73%
+Average of participants runs	69.22%	68.60%	67.03%	49.01%	48.39%	47.74%	50.92%	50.02%	49.23%	36.15%	35.73%	35.22%
